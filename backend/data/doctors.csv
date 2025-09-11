@@ -1,0 +1,1779 @@
+doctor_id,name,gender,location,specialties
+1,Dr. Rajesh Sharma,Female,"Anantapur, Andhra Pradesh",General Medicine
+2,Dr. Priya Reddy,Female,"Anantapur, Andhra Pradesh",Pediatrics
+3,Dr. Anil Kumar,Female,"Anantapur, Andhra Pradesh",Dermatology
+4,Dr. Sunita Singh,Female,"Anantapur, Andhra Pradesh",Cardiology
+5,Dr. Suresh Gupta,Female,"Anantapur, Andhra Pradesh",Neurology
+6,Dr. Meena Joshi,Female,"Anantapur, Andhra Pradesh",Orthopedics
+7,Dr. Amitabh Verma,Female,"Anantapur, Andhra Pradesh",ENT
+8,Dr. Kavita Mishra,Female,"Anantapur, Andhra Pradesh",Pulmonology
+9,Dr. Manoj Sinha,Female,"Anantapur, Andhra Pradesh",Gastroenterology
+10,Dr. Neha Pandey,Female,"Anantapur, Andhra Pradesh",Endocrinology
+11,Dr. Rakesh Yadav,Female,"Anantapur, Andhra Pradesh",Psychiatry
+12,Dr. Swati Jha,Female,"Anantapur, Andhra Pradesh",Ophthalmology
+13,Dr. Sanjay Das,Female,"Anantapur, Andhra Pradesh",Dentistry
+14,Dr. Pooja Agarwal,Female,"Anantapur, Andhra Pradesh",Gynecology
+15,Dr. Ajay Kumar,Female,"Anantapur, Andhra Pradesh",Urology
+16,Dr. Shalini Rao,Female,"Anantapur, Andhra Pradesh",Nephrology
+17,Dr. Deepak Singh,Female,"Anantapur, Andhra Pradesh",Oncology
+18,Dr. Ritu Sinha,Female,"Anantapur, Andhra Pradesh",Surgery
+19,Dr. Arvind Patel,Female,"Anantapur, Andhra Pradesh",Fever
+20,Dr. Sneha Chatterjee,Female,"Anantapur, Andhra Pradesh",Cough
+21,Dr. Vikram Chauhan,Female,"Anantapur, Andhra Pradesh",Cold
+22,Dr. Nisha Jain,Female,"Anantapur, Andhra Pradesh",Headache
+23,Dr. Alok Tripathi,Female,"Anantapur, Andhra Pradesh",Stomach Pain
+24,Dr. Ramesh Babu,Female,"Anantapur, Andhra Pradesh",Back Pain
+25,Dr. Vandana Iyer,Female,"Anantapur, Andhra Pradesh",Diabetes
+26,Dr. Gaurav Saxena,Female,"Anantapur, Andhra Pradesh",Hypertension
+27,Dr. Shweta Menon,Female,"Anantapur, Andhra Pradesh",Asthma
+28,Dr. Pradeep Joshi,Female,"Anantapur, Andhra Pradesh",Allergy
+29,Dr. Anju Thomas,Female,"Anantapur, Andhra Pradesh",Migraine
+30,Dr. Sandeep Kaur,Female,"Anantapur, Andhra Pradesh",Skin Rash
+31,Dr. Manoj Pillai,Female,"Anantapur, Andhra Pradesh",Chest Pain
+32,Dr. Ruchi Sinha,Female,"Anantapur, Andhra Pradesh",Joint Pain
+33,Dr. Ashok Mehta,Female,"Anantapur, Andhra Pradesh",Infection
+34,Dr. Jyoti Rani,Female,"Anantapur, Andhra Pradesh",Weakness
+35,Dr. Kiran Desai,Female,"Chittoor, Andhra Pradesh",General Medicine
+36,Dr. Pankaj Dubey,Female,"Chittoor, Andhra Pradesh",Pediatrics
+37,Dr. Smita Kulkarni,Female,"Chittoor, Andhra Pradesh",Dermatology
+38,Dr. Abhishek Singh,Female,"Chittoor, Andhra Pradesh",Cardiology
+39,Dr. Radhika Nair,Female,"Chittoor, Andhra Pradesh",Neurology
+40,Dr. Mohan Rao,Female,"Chittoor, Andhra Pradesh",Orthopedics
+41,Dr. Preeti Sharma,Female,"Chittoor, Andhra Pradesh",ENT
+42,Dr. Yogesh Patil,Female,"Chittoor, Andhra Pradesh",Pulmonology
+43,Dr. Anil Sahu,Female,"Chittoor, Andhra Pradesh",Gastroenterology
+44,Dr. Suman Mishra,Female,"Chittoor, Andhra Pradesh",Endocrinology
+45,Dr. Rakesh Kumar,Female,"Chittoor, Andhra Pradesh",Psychiatry
+46,Dr. Nidhi Verma,Female,"Chittoor, Andhra Pradesh",Ophthalmology
+47,Dr. Amit Sinha,Female,"Chittoor, Andhra Pradesh",Dentistry
+48,Dr. Seema Gupta,Female,"Chittoor, Andhra Pradesh",Gynecology
+49,Dr. Dinesh Kumar,Female,"Chittoor, Andhra Pradesh",Urology
+50,Dr. Pooja Singh,Female,"Chittoor, Andhra Pradesh",Nephrology
+51,Dr. Rajesh Sharma,Female,"Chittoor, Andhra Pradesh",Oncology
+52,Dr. Priya Reddy,Female,"Chittoor, Andhra Pradesh",Surgery
+53,Dr. Anil Kumar,Female,"Chittoor, Andhra Pradesh",Fever
+54,Dr. Sunita Singh,Female,"Chittoor, Andhra Pradesh",Cough
+55,Dr. Suresh Gupta,Female,"Chittoor, Andhra Pradesh",Cold
+56,Dr. Meena Joshi,Female,"Chittoor, Andhra Pradesh",Headache
+57,Dr. Amitabh Verma,Female,"Chittoor, Andhra Pradesh",Stomach Pain
+58,Dr. Kavita Mishra,Female,"Chittoor, Andhra Pradesh",Back Pain
+59,Dr. Manoj Sinha,Female,"Chittoor, Andhra Pradesh",Diabetes
+60,Dr. Neha Pandey,Female,"Chittoor, Andhra Pradesh",Hypertension
+61,Dr. Rakesh Yadav,Female,"Chittoor, Andhra Pradesh",Asthma
+62,Dr. Swati Jha,Female,"Chittoor, Andhra Pradesh",Allergy
+63,Dr. Sanjay Das,Female,"Chittoor, Andhra Pradesh",Migraine
+64,Dr. Pooja Agarwal,Female,"Chittoor, Andhra Pradesh",Skin Rash
+65,Dr. Ajay Kumar,Female,"Chittoor, Andhra Pradesh",Chest Pain
+66,Dr. Shalini Rao,Female,"Chittoor, Andhra Pradesh",Joint Pain
+67,Dr. Deepak Singh,Female,"Chittoor, Andhra Pradesh",Infection
+68,Dr. Ritu Sinha,Female,"Chittoor, Andhra Pradesh",Weakness
+69,Dr. Arvind Patel,Female,"East Godavari, Andhra Pradesh",General Medicine
+70,Dr. Sneha Chatterjee,Female,"East Godavari, Andhra Pradesh",Pediatrics
+71,Dr. Vikram Chauhan,Female,"East Godavari, Andhra Pradesh",Dermatology
+72,Dr. Nisha Jain,Female,"East Godavari, Andhra Pradesh",Cardiology
+73,Dr. Alok Tripathi,Female,"East Godavari, Andhra Pradesh",Neurology
+74,Dr. Ramesh Babu,Female,"East Godavari, Andhra Pradesh",Orthopedics
+75,Dr. Vandana Iyer,Female,"East Godavari, Andhra Pradesh",ENT
+76,Dr. Gaurav Saxena,Female,"East Godavari, Andhra Pradesh",Pulmonology
+77,Dr. Shweta Menon,Female,"East Godavari, Andhra Pradesh",Gastroenterology
+78,Dr. Pradeep Joshi,Female,"East Godavari, Andhra Pradesh",Endocrinology
+79,Dr. Anju Thomas,Female,"East Godavari, Andhra Pradesh",Psychiatry
+80,Dr. Sandeep Kaur,Female,"East Godavari, Andhra Pradesh",Ophthalmology
+81,Dr. Manoj Pillai,Female,"East Godavari, Andhra Pradesh",Dentistry
+82,Dr. Ruchi Sinha,Female,"East Godavari, Andhra Pradesh",Gynecology
+83,Dr. Ashok Mehta,Female,"East Godavari, Andhra Pradesh",Urology
+84,Dr. Jyoti Rani,Female,"East Godavari, Andhra Pradesh",Nephrology
+85,Dr. Kiran Desai,Female,"East Godavari, Andhra Pradesh",Oncology
+86,Dr. Pankaj Dubey,Female,"East Godavari, Andhra Pradesh",Surgery
+87,Dr. Smita Kulkarni,Female,"East Godavari, Andhra Pradesh",Fever
+88,Dr. Abhishek Singh,Female,"East Godavari, Andhra Pradesh",Cough
+89,Dr. Radhika Nair,Female,"East Godavari, Andhra Pradesh",Cold
+90,Dr. Mohan Rao,Female,"East Godavari, Andhra Pradesh",Headache
+91,Dr. Preeti Sharma,Female,"East Godavari, Andhra Pradesh",Stomach Pain
+92,Dr. Yogesh Patil,Female,"East Godavari, Andhra Pradesh",Back Pain
+93,Dr. Anil Sahu,Female,"East Godavari, Andhra Pradesh",Diabetes
+94,Dr. Suman Mishra,Female,"East Godavari, Andhra Pradesh",Hypertension
+95,Dr. Rakesh Kumar,Female,"East Godavari, Andhra Pradesh",Asthma
+96,Dr. Nidhi Verma,Female,"East Godavari, Andhra Pradesh",Allergy
+97,Dr. Amit Sinha,Female,"East Godavari, Andhra Pradesh",Migraine
+98,Dr. Seema Gupta,Female,"East Godavari, Andhra Pradesh",Skin Rash
+99,Dr. Dinesh Kumar,Female,"East Godavari, Andhra Pradesh",Chest Pain
+100,Dr. Pooja Singh,Female,"East Godavari, Andhra Pradesh",Joint Pain
+101,Dr. Rajesh Sharma,Female,"East Godavari, Andhra Pradesh",Infection
+102,Dr. Priya Reddy,Female,"East Godavari, Andhra Pradesh",Weakness
+103,Dr. Anil Kumar,Female,"Guntur, Andhra Pradesh",General Medicine
+104,Dr. Sunita Singh,Female,"Guntur, Andhra Pradesh",Pediatrics
+105,Dr. Suresh Gupta,Female,"Guntur, Andhra Pradesh",Dermatology
+106,Dr. Meena Joshi,Female,"Guntur, Andhra Pradesh",Cardiology
+107,Dr. Amitabh Verma,Female,"Guntur, Andhra Pradesh",Neurology
+108,Dr. Kavita Mishra,Female,"Guntur, Andhra Pradesh",Orthopedics
+109,Dr. Manoj Sinha,Female,"Guntur, Andhra Pradesh",ENT
+110,Dr. Neha Pandey,Female,"Guntur, Andhra Pradesh",Pulmonology
+111,Dr. Rakesh Yadav,Female,"Guntur, Andhra Pradesh",Gastroenterology
+112,Dr. Swati Jha,Female,"Guntur, Andhra Pradesh",Endocrinology
+113,Dr. Sanjay Das,Female,"Guntur, Andhra Pradesh",Psychiatry
+114,Dr. Pooja Agarwal,Female,"Guntur, Andhra Pradesh",Ophthalmology
+115,Dr. Ajay Kumar,Female,"Guntur, Andhra Pradesh",Dentistry
+116,Dr. Shalini Rao,Female,"Guntur, Andhra Pradesh",Gynecology
+117,Dr. Deepak Singh,Female,"Guntur, Andhra Pradesh",Urology
+118,Dr. Ritu Sinha,Female,"Guntur, Andhra Pradesh",Nephrology
+119,Dr. Arvind Patel,Female,"Guntur, Andhra Pradesh",Oncology
+120,Dr. Sneha Chatterjee,Female,"Guntur, Andhra Pradesh",Surgery
+121,Dr. Vikram Chauhan,Female,"Guntur, Andhra Pradesh",Fever
+122,Dr. Nisha Jain,Female,"Guntur, Andhra Pradesh",Cough
+123,Dr. Alok Tripathi,Female,"Guntur, Andhra Pradesh",Cold
+124,Dr. Ramesh Babu,Female,"Guntur, Andhra Pradesh",Headache
+125,Dr. Vandana Iyer,Female,"Guntur, Andhra Pradesh",Stomach Pain
+126,Dr. Gaurav Saxena,Female,"Guntur, Andhra Pradesh",Back Pain
+127,Dr. Shweta Menon,Female,"Guntur, Andhra Pradesh",Diabetes
+128,Dr. Pradeep Joshi,Female,"Guntur, Andhra Pradesh",Hypertension
+129,Dr. Anju Thomas,Female,"Guntur, Andhra Pradesh",Asthma
+130,Dr. Sandeep Kaur,Female,"Guntur, Andhra Pradesh",Allergy
+131,Dr. Manoj Pillai,Female,"Guntur, Andhra Pradesh",Migraine
+132,Dr. Ruchi Sinha,Female,"Guntur, Andhra Pradesh",Skin Rash
+133,Dr. Ashok Mehta,Female,"Guntur, Andhra Pradesh",Chest Pain
+134,Dr. Jyoti Rani,Female,"Guntur, Andhra Pradesh",Joint Pain
+135,Dr. Kiran Desai,Female,"Guntur, Andhra Pradesh",Infection
+136,Dr. Pankaj Dubey,Female,"Guntur, Andhra Pradesh",Weakness
+137,Dr. Smita Kulkarni,Female,"Krishna, Andhra Pradesh",General Medicine
+138,Dr. Abhishek Singh,Female,"Krishna, Andhra Pradesh",Pediatrics
+139,Dr. Radhika Nair,Female,"Krishna, Andhra Pradesh",Dermatology
+140,Dr. Mohan Rao,Female,"Krishna, Andhra Pradesh",Cardiology
+141,Dr. Preeti Sharma,Female,"Krishna, Andhra Pradesh",Neurology
+142,Dr. Yogesh Patil,Female,"Krishna, Andhra Pradesh",Orthopedics
+143,Dr. Anil Sahu,Female,"Krishna, Andhra Pradesh",ENT
+144,Dr. Suman Mishra,Female,"Krishna, Andhra Pradesh",Pulmonology
+145,Dr. Rakesh Kumar,Female,"Krishna, Andhra Pradesh",Gastroenterology
+146,Dr. Nidhi Verma,Female,"Krishna, Andhra Pradesh",Endocrinology
+147,Dr. Amit Sinha,Female,"Krishna, Andhra Pradesh",Psychiatry
+148,Dr. Seema Gupta,Female,"Krishna, Andhra Pradesh",Ophthalmology
+149,Dr. Dinesh Kumar,Female,"Krishna, Andhra Pradesh",Dentistry
+150,Dr. Pooja Singh,Female,"Krishna, Andhra Pradesh",Gynecology
+151,Dr. Rajesh Sharma,Female,"Krishna, Andhra Pradesh",Urology
+152,Dr. Priya Reddy,Female,"Krishna, Andhra Pradesh",Nephrology
+153,Dr. Anil Kumar,Female,"Krishna, Andhra Pradesh",Oncology
+154,Dr. Sunita Singh,Female,"Krishna, Andhra Pradesh",Surgery
+155,Dr. Suresh Gupta,Female,"Krishna, Andhra Pradesh",Fever
+156,Dr. Meena Joshi,Female,"Krishna, Andhra Pradesh",Cough
+157,Dr. Amitabh Verma,Female,"Krishna, Andhra Pradesh",Cold
+158,Dr. Kavita Mishra,Female,"Krishna, Andhra Pradesh",Headache
+159,Dr. Manoj Sinha,Female,"Krishna, Andhra Pradesh",Stomach Pain
+160,Dr. Neha Pandey,Female,"Krishna, Andhra Pradesh",Back Pain
+161,Dr. Rakesh Yadav,Female,"Krishna, Andhra Pradesh",Diabetes
+162,Dr. Swati Jha,Female,"Krishna, Andhra Pradesh",Hypertension
+163,Dr. Sanjay Das,Female,"Krishna, Andhra Pradesh",Asthma
+164,Dr. Pooja Agarwal,Female,"Krishna, Andhra Pradesh",Allergy
+165,Dr. Ajay Kumar,Female,"Krishna, Andhra Pradesh",Migraine
+166,Dr. Shalini Rao,Female,"Krishna, Andhra Pradesh",Skin Rash
+167,Dr. Deepak Singh,Female,"Krishna, Andhra Pradesh",Chest Pain
+168,Dr. Ritu Sinha,Female,"Krishna, Andhra Pradesh",Joint Pain
+169,Dr. Arvind Patel,Female,"Krishna, Andhra Pradesh",Infection
+170,Dr. Sneha Chatterjee,Female,"Krishna, Andhra Pradesh",Weakness
+171,Dr. Vikram Chauhan,Female,"Kurnool, Andhra Pradesh",General Medicine
+172,Dr. Nisha Jain,Female,"Kurnool, Andhra Pradesh",Pediatrics
+173,Dr. Alok Tripathi,Female,"Kurnool, Andhra Pradesh",Dermatology
+174,Dr. Ramesh Babu,Female,"Kurnool, Andhra Pradesh",Cardiology
+175,Dr. Vandana Iyer,Female,"Kurnool, Andhra Pradesh",Neurology
+176,Dr. Gaurav Saxena,Female,"Kurnool, Andhra Pradesh",Orthopedics
+177,Dr. Shweta Menon,Female,"Kurnool, Andhra Pradesh",ENT
+178,Dr. Pradeep Joshi,Female,"Kurnool, Andhra Pradesh",Pulmonology
+179,Dr. Anju Thomas,Female,"Kurnool, Andhra Pradesh",Gastroenterology
+180,Dr. Sandeep Kaur,Female,"Kurnool, Andhra Pradesh",Endocrinology
+181,Dr. Manoj Pillai,Female,"Kurnool, Andhra Pradesh",Psychiatry
+182,Dr. Ruchi Sinha,Female,"Kurnool, Andhra Pradesh",Ophthalmology
+183,Dr. Ashok Mehta,Female,"Kurnool, Andhra Pradesh",Dentistry
+184,Dr. Jyoti Rani,Female,"Kurnool, Andhra Pradesh",Gynecology
+185,Dr. Kiran Desai,Female,"Kurnool, Andhra Pradesh",Urology
+186,Dr. Pankaj Dubey,Female,"Kurnool, Andhra Pradesh",Nephrology
+187,Dr. Smita Kulkarni,Female,"Kurnool, Andhra Pradesh",Oncology
+188,Dr. Abhishek Singh,Female,"Kurnool, Andhra Pradesh",Surgery
+189,Dr. Radhika Nair,Female,"Kurnool, Andhra Pradesh",Fever
+190,Dr. Mohan Rao,Female,"Kurnool, Andhra Pradesh",Cough
+191,Dr. Preeti Sharma,Female,"Kurnool, Andhra Pradesh",Cold
+192,Dr. Yogesh Patil,Female,"Kurnool, Andhra Pradesh",Headache
+193,Dr. Anil Sahu,Female,"Kurnool, Andhra Pradesh",Stomach Pain
+194,Dr. Suman Mishra,Female,"Kurnool, Andhra Pradesh",Back Pain
+195,Dr. Rakesh Kumar,Female,"Kurnool, Andhra Pradesh",Diabetes
+196,Dr. Nidhi Verma,Female,"Kurnool, Andhra Pradesh",Hypertension
+197,Dr. Amit Sinha,Female,"Kurnool, Andhra Pradesh",Asthma
+198,Dr. Seema Gupta,Female,"Kurnool, Andhra Pradesh",Allergy
+199,Dr. Dinesh Kumar,Female,"Kurnool, Andhra Pradesh",Migraine
+200,Dr. Pooja Singh,Female,"Kurnool, Andhra Pradesh",Skin Rash
+201,Dr. Rajesh Sharma,Female,"Kurnool, Andhra Pradesh",Chest Pain
+202,Dr. Priya Reddy,Female,"Kurnool, Andhra Pradesh",Joint Pain
+203,Dr. Anil Kumar,Female,"Kurnool, Andhra Pradesh",Infection
+204,Dr. Sunita Singh,Female,"Kurnool, Andhra Pradesh",Weakness
+205,Dr. Suresh Gupta,Female,"Prakasam, Andhra Pradesh",General Medicine
+206,Dr. Meena Joshi,Female,"Prakasam, Andhra Pradesh",Pediatrics
+207,Dr. Amitabh Verma,Female,"Prakasam, Andhra Pradesh",Dermatology
+208,Dr. Kavita Mishra,Female,"Prakasam, Andhra Pradesh",Cardiology
+209,Dr. Manoj Sinha,Female,"Prakasam, Andhra Pradesh",Neurology
+210,Dr. Neha Pandey,Female,"Prakasam, Andhra Pradesh",Orthopedics
+211,Dr. Rakesh Yadav,Female,"Prakasam, Andhra Pradesh",ENT
+212,Dr. Swati Jha,Female,"Prakasam, Andhra Pradesh",Pulmonology
+213,Dr. Sanjay Das,Female,"Prakasam, Andhra Pradesh",Gastroenterology
+214,Dr. Pooja Agarwal,Female,"Prakasam, Andhra Pradesh",Endocrinology
+215,Dr. Ajay Kumar,Female,"Prakasam, Andhra Pradesh",Psychiatry
+216,Dr. Shalini Rao,Female,"Prakasam, Andhra Pradesh",Ophthalmology
+217,Dr. Deepak Singh,Female,"Prakasam, Andhra Pradesh",Dentistry
+218,Dr. Ritu Sinha,Female,"Prakasam, Andhra Pradesh",Gynecology
+219,Dr. Arvind Patel,Female,"Prakasam, Andhra Pradesh",Urology
+220,Dr. Sneha Chatterjee,Female,"Prakasam, Andhra Pradesh",Nephrology
+221,Dr. Vikram Chauhan,Female,"Prakasam, Andhra Pradesh",Oncology
+222,Dr. Nisha Jain,Female,"Prakasam, Andhra Pradesh",Surgery
+223,Dr. Alok Tripathi,Female,"Prakasam, Andhra Pradesh",Fever
+224,Dr. Ramesh Babu,Female,"Prakasam, Andhra Pradesh",Cough
+225,Dr. Vandana Iyer,Female,"Prakasam, Andhra Pradesh",Cold
+226,Dr. Gaurav Saxena,Female,"Prakasam, Andhra Pradesh",Headache
+227,Dr. Shweta Menon,Female,"Prakasam, Andhra Pradesh",Stomach Pain
+228,Dr. Pradeep Joshi,Female,"Prakasam, Andhra Pradesh",Back Pain
+229,Dr. Anju Thomas,Female,"Prakasam, Andhra Pradesh",Diabetes
+230,Dr. Sandeep Kaur,Female,"Prakasam, Andhra Pradesh",Hypertension
+231,Dr. Manoj Pillai,Female,"Prakasam, Andhra Pradesh",Asthma
+232,Dr. Ruchi Sinha,Female,"Prakasam, Andhra Pradesh",Allergy
+233,Dr. Ashok Mehta,Female,"Prakasam, Andhra Pradesh",Migraine
+234,Dr. Jyoti Rani,Female,"Prakasam, Andhra Pradesh",Skin Rash
+235,Dr. Kiran Desai,Female,"Prakasam, Andhra Pradesh",Chest Pain
+236,Dr. Pankaj Dubey,Female,"Prakasam, Andhra Pradesh",Joint Pain
+237,Dr. Smita Kulkarni,Female,"Prakasam, Andhra Pradesh",Infection
+238,Dr. Abhishek Singh,Female,"Prakasam, Andhra Pradesh",Weakness
+239,Dr. Radhika Nair,Female,"Nellore, Andhra Pradesh",General Medicine
+240,Dr. Mohan Rao,Female,"Nellore, Andhra Pradesh",Pediatrics
+241,Dr. Preeti Sharma,Female,"Nellore, Andhra Pradesh",Dermatology
+242,Dr. Yogesh Patil,Female,"Nellore, Andhra Pradesh",Cardiology
+243,Dr. Anil Sahu,Female,"Nellore, Andhra Pradesh",Neurology
+244,Dr. Suman Mishra,Female,"Nellore, Andhra Pradesh",Orthopedics
+245,Dr. Rakesh Kumar,Female,"Nellore, Andhra Pradesh",ENT
+246,Dr. Nidhi Verma,Female,"Nellore, Andhra Pradesh",Pulmonology
+247,Dr. Amit Sinha,Female,"Nellore, Andhra Pradesh",Gastroenterology
+248,Dr. Seema Gupta,Female,"Nellore, Andhra Pradesh",Endocrinology
+249,Dr. Dinesh Kumar,Female,"Nellore, Andhra Pradesh",Psychiatry
+250,Dr. Pooja Singh,Female,"Nellore, Andhra Pradesh",Ophthalmology
+251,Dr. Rajesh Sharma,Female,"Nellore, Andhra Pradesh",Dentistry
+252,Dr. Priya Reddy,Female,"Nellore, Andhra Pradesh",Gynecology
+253,Dr. Anil Kumar,Female,"Nellore, Andhra Pradesh",Urology
+254,Dr. Sunita Singh,Female,"Nellore, Andhra Pradesh",Nephrology
+255,Dr. Suresh Gupta,Female,"Nellore, Andhra Pradesh",Oncology
+256,Dr. Meena Joshi,Female,"Nellore, Andhra Pradesh",Surgery
+257,Dr. Amitabh Verma,Female,"Nellore, Andhra Pradesh",Fever
+258,Dr. Kavita Mishra,Female,"Nellore, Andhra Pradesh",Cough
+259,Dr. Manoj Sinha,Female,"Nellore, Andhra Pradesh",Cold
+260,Dr. Neha Pandey,Female,"Nellore, Andhra Pradesh",Headache
+261,Dr. Rakesh Yadav,Female,"Nellore, Andhra Pradesh",Stomach Pain
+262,Dr. Swati Jha,Female,"Nellore, Andhra Pradesh",Back Pain
+263,Dr. Sanjay Das,Female,"Nellore, Andhra Pradesh",Diabetes
+264,Dr. Pooja Agarwal,Female,"Nellore, Andhra Pradesh",Hypertension
+265,Dr. Ajay Kumar,Female,"Nellore, Andhra Pradesh",Asthma
+266,Dr. Shalini Rao,Female,"Nellore, Andhra Pradesh",Allergy
+267,Dr. Deepak Singh,Female,"Nellore, Andhra Pradesh",Migraine
+268,Dr. Ritu Sinha,Female,"Nellore, Andhra Pradesh",Skin Rash
+269,Dr. Arvind Patel,Female,"Nellore, Andhra Pradesh",Chest Pain
+270,Dr. Sneha Chatterjee,Female,"Nellore, Andhra Pradesh",Joint Pain
+271,Dr. Vikram Chauhan,Female,"Nellore, Andhra Pradesh",Infection
+272,Dr. Nisha Jain,Female,"Nellore, Andhra Pradesh",Weakness
+273,Dr. Alok Tripathi,Female,"Srikakulam, Andhra Pradesh",General Medicine
+274,Dr. Ramesh Babu,Female,"Srikakulam, Andhra Pradesh",Pediatrics
+275,Dr. Vandana Iyer,Female,"Srikakulam, Andhra Pradesh",Dermatology
+276,Dr. Gaurav Saxena,Female,"Srikakulam, Andhra Pradesh",Cardiology
+277,Dr. Shweta Menon,Female,"Srikakulam, Andhra Pradesh",Neurology
+278,Dr. Pradeep Joshi,Female,"Srikakulam, Andhra Pradesh",Orthopedics
+279,Dr. Anju Thomas,Female,"Srikakulam, Andhra Pradesh",ENT
+280,Dr. Sandeep Kaur,Female,"Srikakulam, Andhra Pradesh",Pulmonology
+281,Dr. Manoj Pillai,Female,"Srikakulam, Andhra Pradesh",Gastroenterology
+282,Dr. Ruchi Sinha,Female,"Srikakulam, Andhra Pradesh",Endocrinology
+283,Dr. Ashok Mehta,Female,"Srikakulam, Andhra Pradesh",Psychiatry
+284,Dr. Jyoti Rani,Female,"Srikakulam, Andhra Pradesh",Ophthalmology
+285,Dr. Kiran Desai,Female,"Srikakulam, Andhra Pradesh",Dentistry
+286,Dr. Pankaj Dubey,Female,"Srikakulam, Andhra Pradesh",Gynecology
+287,Dr. Smita Kulkarni,Female,"Srikakulam, Andhra Pradesh",Urology
+288,Dr. Abhishek Singh,Female,"Srikakulam, Andhra Pradesh",Nephrology
+289,Dr. Radhika Nair,Female,"Srikakulam, Andhra Pradesh",Oncology
+290,Dr. Mohan Rao,Female,"Srikakulam, Andhra Pradesh",Surgery
+291,Dr. Preeti Sharma,Female,"Srikakulam, Andhra Pradesh",Fever
+292,Dr. Yogesh Patil,Female,"Srikakulam, Andhra Pradesh",Cough
+293,Dr. Anil Sahu,Female,"Srikakulam, Andhra Pradesh",Cold
+294,Dr. Suman Mishra,Female,"Srikakulam, Andhra Pradesh",Headache
+295,Dr. Rakesh Kumar,Female,"Srikakulam, Andhra Pradesh",Stomach Pain
+296,Dr. Nidhi Verma,Female,"Srikakulam, Andhra Pradesh",Back Pain
+297,Dr. Amit Sinha,Female,"Srikakulam, Andhra Pradesh",Diabetes
+298,Dr. Seema Gupta,Female,"Srikakulam, Andhra Pradesh",Hypertension
+299,Dr. Dinesh Kumar,Female,"Srikakulam, Andhra Pradesh",Asthma
+300,Dr. Pooja Singh,Female,"Srikakulam, Andhra Pradesh",Allergy
+301,Dr. Rajesh Sharma,Female,"Srikakulam, Andhra Pradesh",Migraine
+302,Dr. Priya Reddy,Female,"Srikakulam, Andhra Pradesh",Skin Rash
+303,Dr. Anil Kumar,Female,"Srikakulam, Andhra Pradesh",Chest Pain
+304,Dr. Sunita Singh,Female,"Srikakulam, Andhra Pradesh",Joint Pain
+305,Dr. Suresh Gupta,Female,"Srikakulam, Andhra Pradesh",Infection
+306,Dr. Meena Joshi,Female,"Srikakulam, Andhra Pradesh",Weakness
+307,Dr. Amitabh Verma,Female,"Visakhapatnam, Andhra Pradesh",General Medicine
+308,Dr. Kavita Mishra,Female,"Visakhapatnam, Andhra Pradesh",Pediatrics
+309,Dr. Manoj Sinha,Female,"Visakhapatnam, Andhra Pradesh",Dermatology
+310,Dr. Neha Pandey,Female,"Visakhapatnam, Andhra Pradesh",Cardiology
+311,Dr. Rakesh Yadav,Female,"Visakhapatnam, Andhra Pradesh",Neurology
+312,Dr. Swati Jha,Female,"Visakhapatnam, Andhra Pradesh",Orthopedics
+313,Dr. Sanjay Das,Female,"Visakhapatnam, Andhra Pradesh",ENT
+314,Dr. Pooja Agarwal,Female,"Visakhapatnam, Andhra Pradesh",Pulmonology
+315,Dr. Ajay Kumar,Female,"Visakhapatnam, Andhra Pradesh",Gastroenterology
+316,Dr. Shalini Rao,Female,"Visakhapatnam, Andhra Pradesh",Endocrinology
+317,Dr. Deepak Singh,Female,"Visakhapatnam, Andhra Pradesh",Psychiatry
+318,Dr. Ritu Sinha,Female,"Visakhapatnam, Andhra Pradesh",Ophthalmology
+319,Dr. Arvind Patel,Female,"Visakhapatnam, Andhra Pradesh",Dentistry
+320,Dr. Sneha Chatterjee,Female,"Visakhapatnam, Andhra Pradesh",Gynecology
+321,Dr. Vikram Chauhan,Female,"Visakhapatnam, Andhra Pradesh",Urology
+322,Dr. Nisha Jain,Female,"Visakhapatnam, Andhra Pradesh",Nephrology
+323,Dr. Alok Tripathi,Female,"Visakhapatnam, Andhra Pradesh",Oncology
+324,Dr. Ramesh Babu,Female,"Visakhapatnam, Andhra Pradesh",Surgery
+325,Dr. Vandana Iyer,Female,"Visakhapatnam, Andhra Pradesh",Fever
+326,Dr. Gaurav Saxena,Female,"Visakhapatnam, Andhra Pradesh",Cough
+327,Dr. Shweta Menon,Female,"Visakhapatnam, Andhra Pradesh",Cold
+328,Dr. Pradeep Joshi,Female,"Visakhapatnam, Andhra Pradesh",Headache
+329,Dr. Anju Thomas,Female,"Visakhapatnam, Andhra Pradesh",Stomach Pain
+330,Dr. Sandeep Kaur,Female,"Visakhapatnam, Andhra Pradesh",Back Pain
+331,Dr. Manoj Pillai,Female,"Visakhapatnam, Andhra Pradesh",Diabetes
+332,Dr. Ruchi Sinha,Female,"Visakhapatnam, Andhra Pradesh",Hypertension
+333,Dr. Ashok Mehta,Female,"Visakhapatnam, Andhra Pradesh",Asthma
+334,Dr. Jyoti Rani,Female,"Visakhapatnam, Andhra Pradesh",Allergy
+335,Dr. Kiran Desai,Female,"Visakhapatnam, Andhra Pradesh",Migraine
+336,Dr. Pankaj Dubey,Female,"Visakhapatnam, Andhra Pradesh",Skin Rash
+337,Dr. Smita Kulkarni,Female,"Visakhapatnam, Andhra Pradesh",Chest Pain
+338,Dr. Abhishek Singh,Female,"Visakhapatnam, Andhra Pradesh",Joint Pain
+339,Dr. Radhika Nair,Female,"Visakhapatnam, Andhra Pradesh",Infection
+340,Dr. Mohan Rao,Female,"Visakhapatnam, Andhra Pradesh",Weakness
+341,Dr. Preeti Sharma,Female,"Vizianagaram, Andhra Pradesh",General Medicine
+342,Dr. Yogesh Patil,Female,"Vizianagaram, Andhra Pradesh",Pediatrics
+343,Dr. Anil Sahu,Female,"Vizianagaram, Andhra Pradesh",Dermatology
+344,Dr. Suman Mishra,Female,"Vizianagaram, Andhra Pradesh",Cardiology
+345,Dr. Rakesh Kumar,Female,"Vizianagaram, Andhra Pradesh",Neurology
+346,Dr. Nidhi Verma,Female,"Vizianagaram, Andhra Pradesh",Orthopedics
+347,Dr. Amit Sinha,Female,"Vizianagaram, Andhra Pradesh",ENT
+348,Dr. Seema Gupta,Female,"Vizianagaram, Andhra Pradesh",Pulmonology
+349,Dr. Dinesh Kumar,Female,"Vizianagaram, Andhra Pradesh",Gastroenterology
+350,Dr. Pooja Singh,Female,"Vizianagaram, Andhra Pradesh",Endocrinology
+351,Dr. Rajesh Sharma,Female,"Vizianagaram, Andhra Pradesh",Psychiatry
+352,Dr. Priya Reddy,Female,"Vizianagaram, Andhra Pradesh",Ophthalmology
+353,Dr. Anil Kumar,Female,"Vizianagaram, Andhra Pradesh",Dentistry
+354,Dr. Sunita Singh,Female,"Vizianagaram, Andhra Pradesh",Gynecology
+355,Dr. Suresh Gupta,Female,"Vizianagaram, Andhra Pradesh",Urology
+356,Dr. Meena Joshi,Female,"Vizianagaram, Andhra Pradesh",Nephrology
+357,Dr. Amitabh Verma,Female,"Vizianagaram, Andhra Pradesh",Oncology
+358,Dr. Kavita Mishra,Female,"Vizianagaram, Andhra Pradesh",Surgery
+359,Dr. Manoj Sinha,Female,"Vizianagaram, Andhra Pradesh",Fever
+360,Dr. Neha Pandey,Female,"Vizianagaram, Andhra Pradesh",Cough
+361,Dr. Rakesh Yadav,Female,"Vizianagaram, Andhra Pradesh",Cold
+362,Dr. Swati Jha,Female,"Vizianagaram, Andhra Pradesh",Headache
+363,Dr. Sanjay Das,Female,"Vizianagaram, Andhra Pradesh",Stomach Pain
+364,Dr. Pooja Agarwal,Female,"Vizianagaram, Andhra Pradesh",Back Pain
+365,Dr. Ajay Kumar,Female,"Vizianagaram, Andhra Pradesh",Diabetes
+366,Dr. Shalini Rao,Female,"Vizianagaram, Andhra Pradesh",Hypertension
+367,Dr. Deepak Singh,Female,"Vizianagaram, Andhra Pradesh",Asthma
+368,Dr. Ritu Sinha,Female,"Vizianagaram, Andhra Pradesh",Allergy
+369,Dr. Arvind Patel,Female,"Vizianagaram, Andhra Pradesh",Migraine
+370,Dr. Sneha Chatterjee,Female,"Vizianagaram, Andhra Pradesh",Skin Rash
+371,Dr. Vikram Chauhan,Female,"Vizianagaram, Andhra Pradesh",Chest Pain
+372,Dr. Nisha Jain,Female,"Vizianagaram, Andhra Pradesh",Joint Pain
+373,Dr. Alok Tripathi,Female,"Vizianagaram, Andhra Pradesh",Infection
+374,Dr. Ramesh Babu,Female,"Vizianagaram, Andhra Pradesh",Weakness
+375,Dr. Vandana Iyer,Female,"West Godavari, Andhra Pradesh",General Medicine
+376,Dr. Gaurav Saxena,Female,"West Godavari, Andhra Pradesh",Pediatrics
+377,Dr. Shweta Menon,Female,"West Godavari, Andhra Pradesh",Dermatology
+378,Dr. Pradeep Joshi,Female,"West Godavari, Andhra Pradesh",Cardiology
+379,Dr. Anju Thomas,Female,"West Godavari, Andhra Pradesh",Neurology
+380,Dr. Sandeep Kaur,Female,"West Godavari, Andhra Pradesh",Orthopedics
+381,Dr. Manoj Pillai,Female,"West Godavari, Andhra Pradesh",ENT
+382,Dr. Ruchi Sinha,Female,"West Godavari, Andhra Pradesh",Pulmonology
+383,Dr. Ashok Mehta,Female,"West Godavari, Andhra Pradesh",Gastroenterology
+384,Dr. Jyoti Rani,Female,"West Godavari, Andhra Pradesh",Endocrinology
+385,Dr. Kiran Desai,Female,"West Godavari, Andhra Pradesh",Psychiatry
+386,Dr. Pankaj Dubey,Female,"West Godavari, Andhra Pradesh",Ophthalmology
+387,Dr. Smita Kulkarni,Female,"West Godavari, Andhra Pradesh",Dentistry
+388,Dr. Abhishek Singh,Female,"West Godavari, Andhra Pradesh",Gynecology
+389,Dr. Radhika Nair,Female,"West Godavari, Andhra Pradesh",Urology
+390,Dr. Mohan Rao,Female,"West Godavari, Andhra Pradesh",Nephrology
+391,Dr. Preeti Sharma,Female,"West Godavari, Andhra Pradesh",Oncology
+392,Dr. Yogesh Patil,Female,"West Godavari, Andhra Pradesh",Surgery
+393,Dr. Anil Sahu,Female,"West Godavari, Andhra Pradesh",Fever
+394,Dr. Suman Mishra,Female,"West Godavari, Andhra Pradesh",Cough
+395,Dr. Rakesh Kumar,Female,"West Godavari, Andhra Pradesh",Cold
+396,Dr. Nidhi Verma,Female,"West Godavari, Andhra Pradesh",Headache
+397,Dr. Amit Sinha,Female,"West Godavari, Andhra Pradesh",Stomach Pain
+398,Dr. Seema Gupta,Female,"West Godavari, Andhra Pradesh",Back Pain
+399,Dr. Dinesh Kumar,Female,"West Godavari, Andhra Pradesh",Diabetes
+400,Dr. Pooja Singh,Female,"West Godavari, Andhra Pradesh",Hypertension
+401,Dr. Rajesh Sharma,Female,"West Godavari, Andhra Pradesh",Asthma
+402,Dr. Priya Reddy,Female,"West Godavari, Andhra Pradesh",Allergy
+403,Dr. Anil Kumar,Female,"West Godavari, Andhra Pradesh",Migraine
+404,Dr. Sunita Singh,Female,"West Godavari, Andhra Pradesh",Skin Rash
+405,Dr. Suresh Gupta,Female,"West Godavari, Andhra Pradesh",Chest Pain
+406,Dr. Meena Joshi,Female,"West Godavari, Andhra Pradesh",Joint Pain
+407,Dr. Amitabh Verma,Female,"West Godavari, Andhra Pradesh",Infection
+408,Dr. Kavita Mishra,Female,"West Godavari, Andhra Pradesh",Weakness
+409,Dr. Manoj Sinha,Female,"Kadapa, Andhra Pradesh",General Medicine
+410,Dr. Neha Pandey,Female,"Kadapa, Andhra Pradesh",Pediatrics
+411,Dr. Rakesh Yadav,Female,"Kadapa, Andhra Pradesh",Dermatology
+412,Dr. Swati Jha,Female,"Kadapa, Andhra Pradesh",Cardiology
+413,Dr. Sanjay Das,Female,"Kadapa, Andhra Pradesh",Neurology
+414,Dr. Pooja Agarwal,Female,"Kadapa, Andhra Pradesh",Orthopedics
+415,Dr. Ajay Kumar,Female,"Kadapa, Andhra Pradesh",ENT
+416,Dr. Shalini Rao,Female,"Kadapa, Andhra Pradesh",Pulmonology
+417,Dr. Deepak Singh,Female,"Kadapa, Andhra Pradesh",Gastroenterology
+418,Dr. Ritu Sinha,Female,"Kadapa, Andhra Pradesh",Endocrinology
+419,Dr. Arvind Patel,Female,"Kadapa, Andhra Pradesh",Psychiatry
+420,Dr. Sneha Chatterjee,Female,"Kadapa, Andhra Pradesh",Ophthalmology
+421,Dr. Vikram Chauhan,Female,"Kadapa, Andhra Pradesh",Dentistry
+422,Dr. Nisha Jain,Female,"Kadapa, Andhra Pradesh",Gynecology
+423,Dr. Alok Tripathi,Female,"Kadapa, Andhra Pradesh",Urology
+424,Dr. Ramesh Babu,Female,"Kadapa, Andhra Pradesh",Nephrology
+425,Dr. Vandana Iyer,Female,"Kadapa, Andhra Pradesh",Oncology
+426,Dr. Gaurav Saxena,Female,"Kadapa, Andhra Pradesh",Surgery
+427,Dr. Shweta Menon,Female,"Kadapa, Andhra Pradesh",Fever
+428,Dr. Pradeep Joshi,Female,"Kadapa, Andhra Pradesh",Cough
+429,Dr. Anju Thomas,Female,"Kadapa, Andhra Pradesh",Cold
+430,Dr. Sandeep Kaur,Female,"Kadapa, Andhra Pradesh",Headache
+431,Dr. Manoj Pillai,Female,"Kadapa, Andhra Pradesh",Stomach Pain
+432,Dr. Ruchi Sinha,Female,"Kadapa, Andhra Pradesh",Back Pain
+433,Dr. Ashok Mehta,Female,"Kadapa, Andhra Pradesh",Diabetes
+434,Dr. Jyoti Rani,Female,"Kadapa, Andhra Pradesh",Hypertension
+435,Dr. Kiran Desai,Female,"Kadapa, Andhra Pradesh",Asthma
+436,Dr. Pankaj Dubey,Female,"Kadapa, Andhra Pradesh",Allergy
+437,Dr. Smita Kulkarni,Female,"Kadapa, Andhra Pradesh",Migraine
+438,Dr. Abhishek Singh,Female,"Kadapa, Andhra Pradesh",Skin Rash
+439,Dr. Radhika Nair,Female,"Kadapa, Andhra Pradesh",Chest Pain
+440,Dr. Mohan Rao,Female,"Kadapa, Andhra Pradesh",Joint Pain
+441,Dr. Preeti Sharma,Female,"Kadapa, Andhra Pradesh",Infection
+442,Dr. Yogesh Patil,Female,"Kadapa, Andhra Pradesh",Weakness
+443,Dr. Anil Sahu,Female,"Peddapuram, Andhra Pradesh",General Medicine
+444,Dr. Suman Mishra,Female,"Peddapuram, Andhra Pradesh",Pediatrics
+445,Dr. Rakesh Kumar,Female,"Peddapuram, Andhra Pradesh",Dermatology
+446,Dr. Nidhi Verma,Female,"Peddapuram, Andhra Pradesh",Cardiology
+447,Dr. Amit Sinha,Female,"Peddapuram, Andhra Pradesh",Neurology
+448,Dr. Seema Gupta,Female,"Peddapuram, Andhra Pradesh",Orthopedics
+449,Dr. Dinesh Kumar,Female,"Peddapuram, Andhra Pradesh",ENT
+450,Dr. Pooja Singh,Female,"Peddapuram, Andhra Pradesh",Pulmonology
+451,Dr. Rajesh Sharma,Female,"Peddapuram, Andhra Pradesh",Gastroenterology
+452,Dr. Priya Reddy,Female,"Peddapuram, Andhra Pradesh",Endocrinology
+453,Dr. Anil Kumar,Female,"Peddapuram, Andhra Pradesh",Psychiatry
+454,Dr. Sunita Singh,Female,"Peddapuram, Andhra Pradesh",Ophthalmology
+455,Dr. Suresh Gupta,Female,"Peddapuram, Andhra Pradesh",Dentistry
+456,Dr. Meena Joshi,Female,"Peddapuram, Andhra Pradesh",Gynecology
+457,Dr. Amitabh Verma,Female,"Peddapuram, Andhra Pradesh",Urology
+458,Dr. Kavita Mishra,Female,"Peddapuram, Andhra Pradesh",Nephrology
+459,Dr. Manoj Sinha,Female,"Peddapuram, Andhra Pradesh",Oncology
+460,Dr. Neha Pandey,Female,"Peddapuram, Andhra Pradesh",Surgery
+461,Dr. Rakesh Yadav,Female,"Peddapuram, Andhra Pradesh",Fever
+462,Dr. Swati Jha,Female,"Peddapuram, Andhra Pradesh",Cough
+463,Dr. Sanjay Das,Female,"Peddapuram, Andhra Pradesh",Cold
+464,Dr. Pooja Agarwal,Female,"Peddapuram, Andhra Pradesh",Headache
+465,Dr. Ajay Kumar,Female,"Peddapuram, Andhra Pradesh",Stomach Pain
+466,Dr. Shalini Rao,Female,"Peddapuram, Andhra Pradesh",Back Pain
+467,Dr. Deepak Singh,Female,"Peddapuram, Andhra Pradesh",Diabetes
+468,Dr. Ritu Sinha,Female,"Peddapuram, Andhra Pradesh",Hypertension
+469,Dr. Arvind Patel,Female,"Peddapuram, Andhra Pradesh",Asthma
+470,Dr. Sneha Chatterjee,Female,"Peddapuram, Andhra Pradesh",Allergy
+471,Dr. Vikram Chauhan,Female,"Peddapuram, Andhra Pradesh",Migraine
+472,Dr. Nisha Jain,Female,"Peddapuram, Andhra Pradesh",Skin Rash
+473,Dr. Alok Tripathi,Female,"Peddapuram, Andhra Pradesh",Chest Pain
+474,Dr. Ramesh Babu,Female,"Peddapuram, Andhra Pradesh",Joint Pain
+475,Dr. Vandana Iyer,Female,"Peddapuram, Andhra Pradesh",Infection
+476,Dr. Gaurav Saxena,Female,"Peddapuram, Andhra Pradesh",Weakness
+477,Dr. Shweta Menon,Female,"Araria, Bihar",General Medicine
+478,Dr. Pradeep Joshi,Female,"Araria, Bihar",Pediatrics
+479,Dr. Anju Thomas,Female,"Araria, Bihar",Dermatology
+480,Dr. Sandeep Kaur,Female,"Araria, Bihar",Cardiology
+481,Dr. Manoj Pillai,Female,"Araria, Bihar",Neurology
+482,Dr. Ruchi Sinha,Female,"Araria, Bihar",Orthopedics
+483,Dr. Ashok Mehta,Female,"Araria, Bihar",ENT
+484,Dr. Jyoti Rani,Female,"Araria, Bihar",Pulmonology
+485,Dr. Kiran Desai,Female,"Araria, Bihar",Gastroenterology
+486,Dr. Pankaj Dubey,Female,"Araria, Bihar",Endocrinology
+487,Dr. Smita Kulkarni,Female,"Araria, Bihar",Psychiatry
+488,Dr. Abhishek Singh,Female,"Araria, Bihar",Ophthalmology
+489,Dr. Radhika Nair,Female,"Araria, Bihar",Dentistry
+490,Dr. Mohan Rao,Female,"Araria, Bihar",Gynecology
+491,Dr. Preeti Sharma,Female,"Araria, Bihar",Urology
+492,Dr. Yogesh Patil,Female,"Araria, Bihar",Nephrology
+493,Dr. Anil Sahu,Female,"Araria, Bihar",Oncology
+494,Dr. Suman Mishra,Female,"Araria, Bihar",Surgery
+495,Dr. Rakesh Kumar,Female,"Araria, Bihar",Fever
+496,Dr. Nidhi Verma,Female,"Araria, Bihar",Cough
+497,Dr. Amit Sinha,Female,"Araria, Bihar",Cold
+498,Dr. Seema Gupta,Female,"Araria, Bihar",Headache
+499,Dr. Dinesh Kumar,Female,"Araria, Bihar",Stomach Pain
+500,Dr. Pooja Singh,Female,"Araria, Bihar",Back Pain
+501,Dr. Rajesh Sharma,Female,"Araria, Bihar",Diabetes
+502,Dr. Priya Reddy,Female,"Araria, Bihar",Hypertension
+503,Dr. Anil Kumar,Female,"Araria, Bihar",Asthma
+504,Dr. Sunita Singh,Female,"Araria, Bihar",Allergy
+505,Dr. Suresh Gupta,Female,"Araria, Bihar",Migraine
+506,Dr. Meena Joshi,Female,"Araria, Bihar",Skin Rash
+507,Dr. Amitabh Verma,Female,"Araria, Bihar",Chest Pain
+508,Dr. Kavita Mishra,Female,"Araria, Bihar",Joint Pain
+509,Dr. Manoj Sinha,Female,"Araria, Bihar",Infection
+510,Dr. Neha Pandey,Female,"Araria, Bihar",Weakness
+511,Dr. Rakesh Yadav,Female,"Arwal, Bihar",General Medicine
+512,Dr. Swati Jha,Female,"Arwal, Bihar",Pediatrics
+513,Dr. Sanjay Das,Female,"Arwal, Bihar",Dermatology
+514,Dr. Pooja Agarwal,Female,"Arwal, Bihar",Cardiology
+515,Dr. Ajay Kumar,Female,"Arwal, Bihar",Neurology
+516,Dr. Shalini Rao,Female,"Arwal, Bihar",Orthopedics
+517,Dr. Deepak Singh,Female,"Arwal, Bihar",ENT
+518,Dr. Ritu Sinha,Female,"Arwal, Bihar",Pulmonology
+519,Dr. Arvind Patel,Female,"Arwal, Bihar",Gastroenterology
+520,Dr. Sneha Chatterjee,Female,"Arwal, Bihar",Endocrinology
+521,Dr. Vikram Chauhan,Female,"Arwal, Bihar",Psychiatry
+522,Dr. Nisha Jain,Female,"Arwal, Bihar",Ophthalmology
+523,Dr. Alok Tripathi,Female,"Arwal, Bihar",Dentistry
+524,Dr. Ramesh Babu,Female,"Arwal, Bihar",Gynecology
+525,Dr. Vandana Iyer,Female,"Arwal, Bihar",Urology
+526,Dr. Gaurav Saxena,Female,"Arwal, Bihar",Nephrology
+527,Dr. Shweta Menon,Female,"Arwal, Bihar",Oncology
+528,Dr. Pradeep Joshi,Female,"Arwal, Bihar",Surgery
+529,Dr. Anju Thomas,Female,"Arwal, Bihar",Fever
+530,Dr. Sandeep Kaur,Female,"Arwal, Bihar",Cough
+531,Dr. Manoj Pillai,Female,"Arwal, Bihar",Cold
+532,Dr. Ruchi Sinha,Female,"Arwal, Bihar",Headache
+533,Dr. Ashok Mehta,Female,"Arwal, Bihar",Stomach Pain
+534,Dr. Jyoti Rani,Female,"Arwal, Bihar",Back Pain
+535,Dr. Kiran Desai,Female,"Arwal, Bihar",Diabetes
+536,Dr. Pankaj Dubey,Female,"Arwal, Bihar",Hypertension
+537,Dr. Smita Kulkarni,Female,"Arwal, Bihar",Asthma
+538,Dr. Abhishek Singh,Female,"Arwal, Bihar",Allergy
+539,Dr. Radhika Nair,Female,"Arwal, Bihar",Migraine
+540,Dr. Mohan Rao,Female,"Arwal, Bihar",Skin Rash
+541,Dr. Preeti Sharma,Female,"Arwal, Bihar",Chest Pain
+542,Dr. Yogesh Patil,Female,"Arwal, Bihar",Joint Pain
+543,Dr. Anil Sahu,Female,"Arwal, Bihar",Infection
+544,Dr. Suman Mishra,Female,"Arwal, Bihar",Weakness
+545,Dr. Rakesh Kumar,Female,"Aurangabad, Bihar",General Medicine
+546,Dr. Nidhi Verma,Female,"Aurangabad, Bihar",Pediatrics
+547,Dr. Amit Sinha,Female,"Aurangabad, Bihar",Dermatology
+548,Dr. Seema Gupta,Female,"Aurangabad, Bihar",Cardiology
+549,Dr. Dinesh Kumar,Female,"Aurangabad, Bihar",Neurology
+550,Dr. Pooja Singh,Female,"Aurangabad, Bihar",Orthopedics
+551,Dr. Rajesh Sharma,Female,"Aurangabad, Bihar",ENT
+552,Dr. Priya Reddy,Female,"Aurangabad, Bihar",Pulmonology
+553,Dr. Anil Kumar,Female,"Aurangabad, Bihar",Gastroenterology
+554,Dr. Sunita Singh,Female,"Aurangabad, Bihar",Endocrinology
+555,Dr. Suresh Gupta,Female,"Aurangabad, Bihar",Psychiatry
+556,Dr. Meena Joshi,Female,"Aurangabad, Bihar",Ophthalmology
+557,Dr. Amitabh Verma,Female,"Aurangabad, Bihar",Dentistry
+558,Dr. Kavita Mishra,Female,"Aurangabad, Bihar",Gynecology
+559,Dr. Manoj Sinha,Female,"Aurangabad, Bihar",Urology
+560,Dr. Neha Pandey,Female,"Aurangabad, Bihar",Nephrology
+561,Dr. Rakesh Yadav,Female,"Aurangabad, Bihar",Oncology
+562,Dr. Swati Jha,Female,"Aurangabad, Bihar",Surgery
+563,Dr. Sanjay Das,Female,"Aurangabad, Bihar",Fever
+564,Dr. Pooja Agarwal,Female,"Aurangabad, Bihar",Cough
+565,Dr. Ajay Kumar,Female,"Aurangabad, Bihar",Cold
+566,Dr. Shalini Rao,Female,"Aurangabad, Bihar",Headache
+567,Dr. Deepak Singh,Female,"Aurangabad, Bihar",Stomach Pain
+568,Dr. Ritu Sinha,Female,"Aurangabad, Bihar",Back Pain
+569,Dr. Arvind Patel,Female,"Aurangabad, Bihar",Diabetes
+570,Dr. Sneha Chatterjee,Female,"Aurangabad, Bihar",Hypertension
+571,Dr. Vikram Chauhan,Female,"Aurangabad, Bihar",Asthma
+572,Dr. Nisha Jain,Female,"Aurangabad, Bihar",Allergy
+573,Dr. Alok Tripathi,Female,"Aurangabad, Bihar",Migraine
+574,Dr. Ramesh Babu,Female,"Aurangabad, Bihar",Skin Rash
+575,Dr. Vandana Iyer,Female,"Aurangabad, Bihar",Chest Pain
+576,Dr. Gaurav Saxena,Female,"Aurangabad, Bihar",Joint Pain
+577,Dr. Shweta Menon,Female,"Aurangabad, Bihar",Infection
+578,Dr. Pradeep Joshi,Female,"Aurangabad, Bihar",Weakness
+579,Dr. Anju Thomas,Female,"Banka, Bihar",General Medicine
+580,Dr. Sandeep Kaur,Female,"Banka, Bihar",Pediatrics
+581,Dr. Manoj Pillai,Female,"Banka, Bihar",Dermatology
+582,Dr. Ruchi Sinha,Female,"Banka, Bihar",Cardiology
+583,Dr. Ashok Mehta,Female,"Banka, Bihar",Neurology
+584,Dr. Jyoti Rani,Female,"Banka, Bihar",Orthopedics
+585,Dr. Kiran Desai,Female,"Banka, Bihar",ENT
+586,Dr. Pankaj Dubey,Female,"Banka, Bihar",Pulmonology
+587,Dr. Smita Kulkarni,Female,"Banka, Bihar",Gastroenterology
+588,Dr. Abhishek Singh,Female,"Banka, Bihar",Endocrinology
+589,Dr. Radhika Nair,Female,"Banka, Bihar",Psychiatry
+590,Dr. Mohan Rao,Female,"Banka, Bihar",Ophthalmology
+591,Dr. Preeti Sharma,Female,"Banka, Bihar",Dentistry
+592,Dr. Yogesh Patil,Female,"Banka, Bihar",Gynecology
+593,Dr. Anil Sahu,Female,"Banka, Bihar",Urology
+594,Dr. Suman Mishra,Female,"Banka, Bihar",Nephrology
+595,Dr. Rakesh Kumar,Female,"Banka, Bihar",Oncology
+596,Dr. Nidhi Verma,Female,"Banka, Bihar",Surgery
+597,Dr. Amit Sinha,Female,"Banka, Bihar",Fever
+598,Dr. Seema Gupta,Female,"Banka, Bihar",Cough
+599,Dr. Dinesh Kumar,Female,"Banka, Bihar",Cold
+600,Dr. Pooja Singh,Female,"Banka, Bihar",Headache
+601,Dr. Rajesh Sharma,Female,"Banka, Bihar",Stomach Pain
+602,Dr. Priya Reddy,Female,"Banka, Bihar",Back Pain
+603,Dr. Anil Kumar,Female,"Banka, Bihar",Diabetes
+604,Dr. Sunita Singh,Female,"Banka, Bihar",Hypertension
+605,Dr. Suresh Gupta,Female,"Banka, Bihar",Asthma
+606,Dr. Meena Joshi,Female,"Banka, Bihar",Allergy
+607,Dr. Amitabh Verma,Female,"Banka, Bihar",Migraine
+608,Dr. Kavita Mishra,Female,"Banka, Bihar",Skin Rash
+609,Dr. Manoj Sinha,Female,"Banka, Bihar",Chest Pain
+610,Dr. Neha Pandey,Female,"Banka, Bihar",Joint Pain
+611,Dr. Rakesh Yadav,Female,"Banka, Bihar",Infection
+612,Dr. Swati Jha,Female,"Banka, Bihar",Weakness
+613,Dr. Sanjay Das,Female,"Begusarai, Bihar",General Medicine
+614,Dr. Pooja Agarwal,Female,"Begusarai, Bihar",Pediatrics
+615,Dr. Ajay Kumar,Female,"Begusarai, Bihar",Dermatology
+616,Dr. Shalini Rao,Female,"Begusarai, Bihar",Cardiology
+617,Dr. Deepak Singh,Female,"Begusarai, Bihar",Neurology
+618,Dr. Ritu Sinha,Female,"Begusarai, Bihar",Orthopedics
+619,Dr. Arvind Patel,Female,"Begusarai, Bihar",ENT
+620,Dr. Sneha Chatterjee,Female,"Begusarai, Bihar",Pulmonology
+621,Dr. Vikram Chauhan,Female,"Begusarai, Bihar",Gastroenterology
+622,Dr. Nisha Jain,Female,"Begusarai, Bihar",Endocrinology
+623,Dr. Alok Tripathi,Female,"Begusarai, Bihar",Psychiatry
+624,Dr. Ramesh Babu,Female,"Begusarai, Bihar",Ophthalmology
+625,Dr. Vandana Iyer,Female,"Begusarai, Bihar",Dentistry
+626,Dr. Gaurav Saxena,Female,"Begusarai, Bihar",Gynecology
+627,Dr. Shweta Menon,Female,"Begusarai, Bihar",Urology
+628,Dr. Pradeep Joshi,Female,"Begusarai, Bihar",Nephrology
+629,Dr. Anju Thomas,Female,"Begusarai, Bihar",Oncology
+630,Dr. Sandeep Kaur,Female,"Begusarai, Bihar",Surgery
+631,Dr. Manoj Pillai,Female,"Begusarai, Bihar",Fever
+632,Dr. Ruchi Sinha,Female,"Begusarai, Bihar",Cough
+633,Dr. Ashok Mehta,Female,"Begusarai, Bihar",Cold
+634,Dr. Jyoti Rani,Female,"Begusarai, Bihar",Headache
+635,Dr. Kiran Desai,Female,"Begusarai, Bihar",Stomach Pain
+636,Dr. Pankaj Dubey,Female,"Begusarai, Bihar",Back Pain
+637,Dr. Smita Kulkarni,Female,"Begusarai, Bihar",Diabetes
+638,Dr. Abhishek Singh,Female,"Begusarai, Bihar",Hypertension
+639,Dr. Radhika Nair,Female,"Begusarai, Bihar",Asthma
+640,Dr. Mohan Rao,Female,"Begusarai, Bihar",Allergy
+641,Dr. Preeti Sharma,Female,"Begusarai, Bihar",Migraine
+642,Dr. Yogesh Patil,Female,"Begusarai, Bihar",Skin Rash
+643,Dr. Anil Sahu,Female,"Begusarai, Bihar",Chest Pain
+644,Dr. Suman Mishra,Female,"Begusarai, Bihar",Joint Pain
+645,Dr. Rakesh Kumar,Female,"Begusarai, Bihar",Infection
+646,Dr. Nidhi Verma,Female,"Begusarai, Bihar",Weakness
+647,Dr. Amit Sinha,Female,"Bhagalpur, Bihar",General Medicine
+648,Dr. Seema Gupta,Female,"Bhagalpur, Bihar",Pediatrics
+649,Dr. Dinesh Kumar,Female,"Bhagalpur, Bihar",Dermatology
+650,Dr. Pooja Singh,Female,"Bhagalpur, Bihar",Cardiology
+651,Dr. Rajesh Sharma,Female,"Bhagalpur, Bihar",Neurology
+652,Dr. Priya Reddy,Female,"Bhagalpur, Bihar",Orthopedics
+653,Dr. Anil Kumar,Female,"Bhagalpur, Bihar",ENT
+654,Dr. Sunita Singh,Female,"Bhagalpur, Bihar",Pulmonology
+655,Dr. Suresh Gupta,Female,"Bhagalpur, Bihar",Gastroenterology
+656,Dr. Meena Joshi,Female,"Bhagalpur, Bihar",Endocrinology
+657,Dr. Amitabh Verma,Female,"Bhagalpur, Bihar",Psychiatry
+658,Dr. Kavita Mishra,Female,"Bhagalpur, Bihar",Ophthalmology
+659,Dr. Manoj Sinha,Female,"Bhagalpur, Bihar",Dentistry
+660,Dr. Neha Pandey,Female,"Bhagalpur, Bihar",Gynecology
+661,Dr. Rakesh Yadav,Female,"Bhagalpur, Bihar",Urology
+662,Dr. Swati Jha,Female,"Bhagalpur, Bihar",Nephrology
+663,Dr. Sanjay Das,Female,"Bhagalpur, Bihar",Oncology
+664,Dr. Pooja Agarwal,Female,"Bhagalpur, Bihar",Surgery
+665,Dr. Ajay Kumar,Female,"Bhagalpur, Bihar",Fever
+666,Dr. Shalini Rao,Female,"Bhagalpur, Bihar",Cough
+667,Dr. Deepak Singh,Female,"Bhagalpur, Bihar",Cold
+668,Dr. Ritu Sinha,Female,"Bhagalpur, Bihar",Headache
+669,Dr. Arvind Patel,Female,"Bhagalpur, Bihar",Stomach Pain
+670,Dr. Sneha Chatterjee,Female,"Bhagalpur, Bihar",Back Pain
+671,Dr. Vikram Chauhan,Female,"Bhagalpur, Bihar",Diabetes
+672,Dr. Nisha Jain,Female,"Bhagalpur, Bihar",Hypertension
+673,Dr. Alok Tripathi,Female,"Bhagalpur, Bihar",Asthma
+674,Dr. Ramesh Babu,Female,"Bhagalpur, Bihar",Allergy
+675,Dr. Vandana Iyer,Female,"Bhagalpur, Bihar",Migraine
+676,Dr. Gaurav Saxena,Female,"Bhagalpur, Bihar",Skin Rash
+677,Dr. Shweta Menon,Female,"Bhagalpur, Bihar",Chest Pain
+678,Dr. Pradeep Joshi,Female,"Bhagalpur, Bihar",Joint Pain
+679,Dr. Anju Thomas,Female,"Bhagalpur, Bihar",Infection
+680,Dr. Sandeep Kaur,Female,"Bhagalpur, Bihar",Weakness
+681,Dr. Manoj Pillai,Female,"Bhojpur, Bihar",General Medicine
+682,Dr. Ruchi Sinha,Female,"Bhojpur, Bihar",Pediatrics
+683,Dr. Ashok Mehta,Female,"Bhojpur, Bihar",Dermatology
+684,Dr. Jyoti Rani,Female,"Bhojpur, Bihar",Cardiology
+685,Dr. Kiran Desai,Female,"Bhojpur, Bihar",Neurology
+686,Dr. Pankaj Dubey,Female,"Bhojpur, Bihar",Orthopedics
+687,Dr. Smita Kulkarni,Female,"Bhojpur, Bihar",ENT
+688,Dr. Abhishek Singh,Female,"Bhojpur, Bihar",Pulmonology
+689,Dr. Radhika Nair,Female,"Bhojpur, Bihar",Gastroenterology
+690,Dr. Mohan Rao,Female,"Bhojpur, Bihar",Endocrinology
+691,Dr. Preeti Sharma,Female,"Bhojpur, Bihar",Psychiatry
+692,Dr. Yogesh Patil,Female,"Bhojpur, Bihar",Ophthalmology
+693,Dr. Anil Sahu,Female,"Bhojpur, Bihar",Dentistry
+694,Dr. Suman Mishra,Female,"Bhojpur, Bihar",Gynecology
+695,Dr. Rakesh Kumar,Female,"Bhojpur, Bihar",Urology
+696,Dr. Nidhi Verma,Female,"Bhojpur, Bihar",Nephrology
+697,Dr. Amit Sinha,Female,"Bhojpur, Bihar",Oncology
+698,Dr. Seema Gupta,Female,"Bhojpur, Bihar",Surgery
+699,Dr. Dinesh Kumar,Female,"Bhojpur, Bihar",Fever
+700,Dr. Pooja Singh,Female,"Bhojpur, Bihar",Cough
+701,Dr. Rajesh Sharma,Female,"Bhojpur, Bihar",Cold
+702,Dr. Priya Reddy,Female,"Bhojpur, Bihar",Headache
+703,Dr. Anil Kumar,Female,"Bhojpur, Bihar",Stomach Pain
+704,Dr. Sunita Singh,Female,"Bhojpur, Bihar",Back Pain
+705,Dr. Suresh Gupta,Female,"Bhojpur, Bihar",Diabetes
+706,Dr. Meena Joshi,Female,"Bhojpur, Bihar",Hypertension
+707,Dr. Amitabh Verma,Female,"Bhojpur, Bihar",Asthma
+708,Dr. Kavita Mishra,Female,"Bhojpur, Bihar",Allergy
+709,Dr. Manoj Sinha,Female,"Bhojpur, Bihar",Migraine
+710,Dr. Neha Pandey,Female,"Bhojpur, Bihar",Skin Rash
+711,Dr. Rakesh Yadav,Female,"Bhojpur, Bihar",Chest Pain
+712,Dr. Swati Jha,Female,"Bhojpur, Bihar",Joint Pain
+713,Dr. Sanjay Das,Female,"Bhojpur, Bihar",Infection
+714,Dr. Pooja Agarwal,Female,"Bhojpur, Bihar",Weakness
+715,Dr. Ajay Kumar,Female,"Buxar, Bihar",General Medicine
+716,Dr. Shalini Rao,Female,"Buxar, Bihar",Pediatrics
+717,Dr. Deepak Singh,Female,"Buxar, Bihar",Dermatology
+718,Dr. Ritu Sinha,Female,"Buxar, Bihar",Cardiology
+719,Dr. Arvind Patel,Female,"Buxar, Bihar",Neurology
+720,Dr. Sneha Chatterjee,Female,"Buxar, Bihar",Orthopedics
+721,Dr. Vikram Chauhan,Female,"Buxar, Bihar",ENT
+722,Dr. Nisha Jain,Female,"Buxar, Bihar",Pulmonology
+723,Dr. Alok Tripathi,Female,"Buxar, Bihar",Gastroenterology
+724,Dr. Ramesh Babu,Female,"Buxar, Bihar",Endocrinology
+725,Dr. Vandana Iyer,Female,"Buxar, Bihar",Psychiatry
+726,Dr. Gaurav Saxena,Female,"Buxar, Bihar",Ophthalmology
+727,Dr. Shweta Menon,Female,"Buxar, Bihar",Dentistry
+728,Dr. Pradeep Joshi,Female,"Buxar, Bihar",Gynecology
+729,Dr. Anju Thomas,Female,"Buxar, Bihar",Urology
+730,Dr. Sandeep Kaur,Female,"Buxar, Bihar",Nephrology
+731,Dr. Manoj Pillai,Female,"Buxar, Bihar",Oncology
+732,Dr. Ruchi Sinha,Female,"Buxar, Bihar",Surgery
+733,Dr. Ashok Mehta,Female,"Buxar, Bihar",Fever
+734,Dr. Jyoti Rani,Female,"Buxar, Bihar",Cough
+735,Dr. Kiran Desai,Female,"Buxar, Bihar",Cold
+736,Dr. Pankaj Dubey,Female,"Buxar, Bihar",Headache
+737,Dr. Smita Kulkarni,Female,"Buxar, Bihar",Stomach Pain
+738,Dr. Abhishek Singh,Female,"Buxar, Bihar",Back Pain
+739,Dr. Radhika Nair,Female,"Buxar, Bihar",Diabetes
+740,Dr. Mohan Rao,Female,"Buxar, Bihar",Hypertension
+741,Dr. Preeti Sharma,Female,"Buxar, Bihar",Asthma
+742,Dr. Yogesh Patil,Female,"Buxar, Bihar",Allergy
+743,Dr. Anil Sahu,Female,"Buxar, Bihar",Migraine
+744,Dr. Suman Mishra,Female,"Buxar, Bihar",Skin Rash
+745,Dr. Rakesh Kumar,Female,"Buxar, Bihar",Chest Pain
+746,Dr. Nidhi Verma,Female,"Buxar, Bihar",Joint Pain
+747,Dr. Amit Sinha,Female,"Buxar, Bihar",Infection
+748,Dr. Seema Gupta,Female,"Buxar, Bihar",Weakness
+749,Dr. Dinesh Kumar,Female,"Darbhanga, Bihar",General Medicine
+750,Dr. Pooja Singh,Female,"Darbhanga, Bihar",Pediatrics
+751,Dr. Rajesh Sharma,Female,"Darbhanga, Bihar",Dermatology
+752,Dr. Priya Reddy,Female,"Darbhanga, Bihar",Cardiology
+753,Dr. Anil Kumar,Female,"Darbhanga, Bihar",Neurology
+754,Dr. Sunita Singh,Female,"Darbhanga, Bihar",Orthopedics
+755,Dr. Suresh Gupta,Female,"Darbhanga, Bihar",ENT
+756,Dr. Meena Joshi,Female,"Darbhanga, Bihar",Pulmonology
+757,Dr. Amitabh Verma,Female,"Darbhanga, Bihar",Gastroenterology
+758,Dr. Kavita Mishra,Female,"Darbhanga, Bihar",Endocrinology
+759,Dr. Manoj Sinha,Female,"Darbhanga, Bihar",Psychiatry
+760,Dr. Neha Pandey,Female,"Darbhanga, Bihar",Ophthalmology
+761,Dr. Rakesh Yadav,Female,"Darbhanga, Bihar",Dentistry
+762,Dr. Swati Jha,Female,"Darbhanga, Bihar",Gynecology
+763,Dr. Sanjay Das,Female,"Darbhanga, Bihar",Urology
+764,Dr. Pooja Agarwal,Female,"Darbhanga, Bihar",Nephrology
+765,Dr. Ajay Kumar,Female,"Darbhanga, Bihar",Oncology
+766,Dr. Shalini Rao,Female,"Darbhanga, Bihar",Surgery
+767,Dr. Deepak Singh,Female,"Darbhanga, Bihar",Fever
+768,Dr. Ritu Sinha,Female,"Darbhanga, Bihar",Cough
+769,Dr. Arvind Patel,Female,"Darbhanga, Bihar",Cold
+770,Dr. Sneha Chatterjee,Female,"Darbhanga, Bihar",Headache
+771,Dr. Vikram Chauhan,Female,"Darbhanga, Bihar",Stomach Pain
+772,Dr. Nisha Jain,Female,"Darbhanga, Bihar",Back Pain
+773,Dr. Alok Tripathi,Female,"Darbhanga, Bihar",Diabetes
+774,Dr. Ramesh Babu,Female,"Darbhanga, Bihar",Hypertension
+775,Dr. Vandana Iyer,Female,"Darbhanga, Bihar",Asthma
+776,Dr. Gaurav Saxena,Female,"Darbhanga, Bihar",Allergy
+777,Dr. Shweta Menon,Female,"Darbhanga, Bihar",Migraine
+778,Dr. Pradeep Joshi,Female,"Darbhanga, Bihar",Skin Rash
+779,Dr. Anju Thomas,Female,"Darbhanga, Bihar",Chest Pain
+780,Dr. Sandeep Kaur,Female,"Darbhanga, Bihar",Joint Pain
+781,Dr. Manoj Pillai,Female,"Darbhanga, Bihar",Infection
+782,Dr. Ruchi Sinha,Female,"Darbhanga, Bihar",Weakness
+783,Dr. Ashok Mehta,Female,"East Champaran, Bihar",General Medicine
+784,Dr. Jyoti Rani,Female,"East Champaran, Bihar",Pediatrics
+785,Dr. Kiran Desai,Female,"East Champaran, Bihar",Dermatology
+786,Dr. Pankaj Dubey,Female,"East Champaran, Bihar",Cardiology
+787,Dr. Smita Kulkarni,Female,"East Champaran, Bihar",Neurology
+788,Dr. Abhishek Singh,Female,"East Champaran, Bihar",Orthopedics
+789,Dr. Radhika Nair,Female,"East Champaran, Bihar",ENT
+790,Dr. Mohan Rao,Female,"East Champaran, Bihar",Pulmonology
+791,Dr. Preeti Sharma,Female,"East Champaran, Bihar",Gastroenterology
+792,Dr. Yogesh Patil,Female,"East Champaran, Bihar",Endocrinology
+793,Dr. Anil Sahu,Female,"East Champaran, Bihar",Psychiatry
+794,Dr. Suman Mishra,Female,"East Champaran, Bihar",Ophthalmology
+795,Dr. Rakesh Kumar,Female,"East Champaran, Bihar",Dentistry
+796,Dr. Nidhi Verma,Female,"East Champaran, Bihar",Gynecology
+797,Dr. Amit Sinha,Female,"East Champaran, Bihar",Urology
+798,Dr. Seema Gupta,Female,"East Champaran, Bihar",Nephrology
+799,Dr. Dinesh Kumar,Female,"East Champaran, Bihar",Oncology
+800,Dr. Pooja Singh,Female,"East Champaran, Bihar",Surgery
+801,Dr. Rajesh Sharma,Female,"East Champaran, Bihar",Fever
+802,Dr. Priya Reddy,Female,"East Champaran, Bihar",Cough
+803,Dr. Anil Kumar,Female,"East Champaran, Bihar",Cold
+804,Dr. Sunita Singh,Female,"East Champaran, Bihar",Headache
+805,Dr. Suresh Gupta,Female,"East Champaran, Bihar",Stomach Pain
+806,Dr. Meena Joshi,Female,"East Champaran, Bihar",Back Pain
+807,Dr. Amitabh Verma,Female,"East Champaran, Bihar",Diabetes
+808,Dr. Kavita Mishra,Female,"East Champaran, Bihar",Hypertension
+809,Dr. Manoj Sinha,Female,"East Champaran, Bihar",Asthma
+810,Dr. Neha Pandey,Female,"East Champaran, Bihar",Allergy
+811,Dr. Rakesh Yadav,Female,"East Champaran, Bihar",Migraine
+812,Dr. Swati Jha,Female,"East Champaran, Bihar",Skin Rash
+813,Dr. Sanjay Das,Female,"East Champaran, Bihar",Chest Pain
+814,Dr. Pooja Agarwal,Female,"East Champaran, Bihar",Joint Pain
+815,Dr. Ajay Kumar,Female,"East Champaran, Bihar",Infection
+816,Dr. Shalini Rao,Female,"East Champaran, Bihar",Weakness
+817,Dr. Deepak Singh,Female,"Gaya, Bihar",General Medicine
+818,Dr. Ritu Sinha,Female,"Gaya, Bihar",Pediatrics
+819,Dr. Arvind Patel,Female,"Gaya, Bihar",Dermatology
+820,Dr. Sneha Chatterjee,Female,"Gaya, Bihar",Cardiology
+821,Dr. Vikram Chauhan,Female,"Gaya, Bihar",Neurology
+822,Dr. Nisha Jain,Female,"Gaya, Bihar",Orthopedics
+823,Dr. Alok Tripathi,Female,"Gaya, Bihar",ENT
+824,Dr. Ramesh Babu,Female,"Gaya, Bihar",Pulmonology
+825,Dr. Vandana Iyer,Female,"Gaya, Bihar",Gastroenterology
+826,Dr. Gaurav Saxena,Female,"Gaya, Bihar",Endocrinology
+827,Dr. Shweta Menon,Female,"Gaya, Bihar",Psychiatry
+828,Dr. Pradeep Joshi,Female,"Gaya, Bihar",Ophthalmology
+829,Dr. Anju Thomas,Female,"Gaya, Bihar",Dentistry
+830,Dr. Sandeep Kaur,Female,"Gaya, Bihar",Gynecology
+831,Dr. Manoj Pillai,Female,"Gaya, Bihar",Urology
+832,Dr. Ruchi Sinha,Female,"Gaya, Bihar",Nephrology
+833,Dr. Ashok Mehta,Female,"Gaya, Bihar",Oncology
+834,Dr. Jyoti Rani,Female,"Gaya, Bihar",Surgery
+835,Dr. Kiran Desai,Female,"Gaya, Bihar",Fever
+836,Dr. Pankaj Dubey,Female,"Gaya, Bihar",Cough
+837,Dr. Smita Kulkarni,Female,"Gaya, Bihar",Cold
+838,Dr. Abhishek Singh,Female,"Gaya, Bihar",Headache
+839,Dr. Radhika Nair,Female,"Gaya, Bihar",Stomach Pain
+840,Dr. Mohan Rao,Female,"Gaya, Bihar",Back Pain
+841,Dr. Preeti Sharma,Female,"Gaya, Bihar",Diabetes
+842,Dr. Yogesh Patil,Female,"Gaya, Bihar",Hypertension
+843,Dr. Anil Sahu,Female,"Gaya, Bihar",Asthma
+844,Dr. Suman Mishra,Female,"Gaya, Bihar",Allergy
+845,Dr. Rakesh Kumar,Female,"Gaya, Bihar",Migraine
+846,Dr. Nidhi Verma,Female,"Gaya, Bihar",Skin Rash
+847,Dr. Amit Sinha,Female,"Gaya, Bihar",Chest Pain
+848,Dr. Seema Gupta,Female,"Gaya, Bihar",Joint Pain
+849,Dr. Dinesh Kumar,Female,"Gaya, Bihar",Infection
+850,Dr. Pooja Singh,Female,"Gaya, Bihar",Weakness
+851,Dr. Rajesh Sharma,Female,"Gopalganj, Bihar",General Medicine
+852,Dr. Priya Reddy,Female,"Gopalganj, Bihar",Pediatrics
+853,Dr. Anil Kumar,Female,"Gopalganj, Bihar",Dermatology
+854,Dr. Sunita Singh,Female,"Gopalganj, Bihar",Cardiology
+855,Dr. Suresh Gupta,Female,"Gopalganj, Bihar",Neurology
+856,Dr. Meena Joshi,Female,"Gopalganj, Bihar",Orthopedics
+857,Dr. Amitabh Verma,Female,"Gopalganj, Bihar",ENT
+858,Dr. Kavita Mishra,Female,"Gopalganj, Bihar",Pulmonology
+859,Dr. Manoj Sinha,Female,"Gopalganj, Bihar",Gastroenterology
+860,Dr. Neha Pandey,Female,"Gopalganj, Bihar",Endocrinology
+861,Dr. Rakesh Yadav,Female,"Gopalganj, Bihar",Psychiatry
+862,Dr. Swati Jha,Female,"Gopalganj, Bihar",Ophthalmology
+863,Dr. Sanjay Das,Female,"Gopalganj, Bihar",Dentistry
+864,Dr. Pooja Agarwal,Female,"Gopalganj, Bihar",Gynecology
+865,Dr. Ajay Kumar,Female,"Gopalganj, Bihar",Urology
+866,Dr. Shalini Rao,Female,"Gopalganj, Bihar",Nephrology
+867,Dr. Deepak Singh,Female,"Gopalganj, Bihar",Oncology
+868,Dr. Ritu Sinha,Female,"Gopalganj, Bihar",Surgery
+869,Dr. Arvind Patel,Female,"Gopalganj, Bihar",Fever
+870,Dr. Sneha Chatterjee,Female,"Gopalganj, Bihar",Cough
+871,Dr. Vikram Chauhan,Female,"Gopalganj, Bihar",Cold
+872,Dr. Nisha Jain,Female,"Gopalganj, Bihar",Headache
+873,Dr. Alok Tripathi,Female,"Gopalganj, Bihar",Stomach Pain
+874,Dr. Ramesh Babu,Female,"Gopalganj, Bihar",Back Pain
+875,Dr. Vandana Iyer,Female,"Gopalganj, Bihar",Diabetes
+876,Dr. Gaurav Saxena,Female,"Gopalganj, Bihar",Hypertension
+877,Dr. Shweta Menon,Female,"Gopalganj, Bihar",Asthma
+878,Dr. Pradeep Joshi,Female,"Gopalganj, Bihar",Allergy
+879,Dr. Anju Thomas,Female,"Gopalganj, Bihar",Migraine
+880,Dr. Sandeep Kaur,Female,"Gopalganj, Bihar",Skin Rash
+881,Dr. Manoj Pillai,Female,"Gopalganj, Bihar",Chest Pain
+882,Dr. Ruchi Sinha,Female,"Gopalganj, Bihar",Joint Pain
+883,Dr. Ashok Mehta,Female,"Gopalganj, Bihar",Infection
+884,Dr. Jyoti Rani,Female,"Gopalganj, Bihar",Weakness
+885,Dr. Kiran Desai,Female,"Jamui, Bihar",General Medicine
+886,Dr. Pankaj Dubey,Female,"Jamui, Bihar",Pediatrics
+887,Dr. Smita Kulkarni,Female,"Jamui, Bihar",Dermatology
+888,Dr. Abhishek Singh,Female,"Jamui, Bihar",Cardiology
+889,Dr. Radhika Nair,Female,"Jamui, Bihar",Neurology
+890,Dr. Mohan Rao,Female,"Jamui, Bihar",Orthopedics
+891,Dr. Preeti Sharma,Female,"Jamui, Bihar",ENT
+892,Dr. Yogesh Patil,Female,"Jamui, Bihar",Pulmonology
+893,Dr. Anil Sahu,Female,"Jamui, Bihar",Gastroenterology
+894,Dr. Suman Mishra,Female,"Jamui, Bihar",Endocrinology
+895,Dr. Rakesh Kumar,Female,"Jamui, Bihar",Psychiatry
+896,Dr. Nidhi Verma,Female,"Jamui, Bihar",Ophthalmology
+897,Dr. Amit Sinha,Female,"Jamui, Bihar",Dentistry
+898,Dr. Seema Gupta,Female,"Jamui, Bihar",Gynecology
+899,Dr. Dinesh Kumar,Female,"Jamui, Bihar",Urology
+900,Dr. Pooja Singh,Female,"Jamui, Bihar",Nephrology
+901,Dr. Rajesh Sharma,Female,"Jamui, Bihar",Oncology
+902,Dr. Priya Reddy,Female,"Jamui, Bihar",Surgery
+903,Dr. Anil Kumar,Female,"Jamui, Bihar",Fever
+904,Dr. Sunita Singh,Female,"Jamui, Bihar",Cough
+905,Dr. Suresh Gupta,Female,"Jamui, Bihar",Cold
+906,Dr. Meena Joshi,Female,"Jamui, Bihar",Headache
+907,Dr. Amitabh Verma,Female,"Jamui, Bihar",Stomach Pain
+908,Dr. Kavita Mishra,Female,"Jamui, Bihar",Back Pain
+909,Dr. Manoj Sinha,Female,"Jamui, Bihar",Diabetes
+910,Dr. Neha Pandey,Female,"Jamui, Bihar",Hypertension
+911,Dr. Rakesh Yadav,Female,"Jamui, Bihar",Asthma
+912,Dr. Swati Jha,Female,"Jamui, Bihar",Allergy
+913,Dr. Sanjay Das,Female,"Jamui, Bihar",Migraine
+914,Dr. Pooja Agarwal,Female,"Jamui, Bihar",Skin Rash
+915,Dr. Ajay Kumar,Female,"Jamui, Bihar",Chest Pain
+916,Dr. Shalini Rao,Female,"Jamui, Bihar",Joint Pain
+917,Dr. Deepak Singh,Female,"Jamui, Bihar",Infection
+918,Dr. Ritu Sinha,Female,"Jamui, Bihar",Weakness
+919,Dr. Arvind Patel,Female,"Jehanabad, Bihar",General Medicine
+920,Dr. Sneha Chatterjee,Female,"Jehanabad, Bihar",Pediatrics
+921,Dr. Vikram Chauhan,Female,"Jehanabad, Bihar",Dermatology
+922,Dr. Nisha Jain,Female,"Jehanabad, Bihar",Cardiology
+923,Dr. Alok Tripathi,Female,"Jehanabad, Bihar",Neurology
+924,Dr. Ramesh Babu,Female,"Jehanabad, Bihar",Orthopedics
+925,Dr. Vandana Iyer,Female,"Jehanabad, Bihar",ENT
+926,Dr. Gaurav Saxena,Female,"Jehanabad, Bihar",Pulmonology
+927,Dr. Shweta Menon,Female,"Jehanabad, Bihar",Gastroenterology
+928,Dr. Pradeep Joshi,Female,"Jehanabad, Bihar",Endocrinology
+929,Dr. Anju Thomas,Female,"Jehanabad, Bihar",Psychiatry
+930,Dr. Sandeep Kaur,Female,"Jehanabad, Bihar",Ophthalmology
+931,Dr. Manoj Pillai,Female,"Jehanabad, Bihar",Dentistry
+932,Dr. Ruchi Sinha,Female,"Jehanabad, Bihar",Gynecology
+933,Dr. Ashok Mehta,Female,"Jehanabad, Bihar",Urology
+934,Dr. Jyoti Rani,Female,"Jehanabad, Bihar",Nephrology
+935,Dr. Kiran Desai,Female,"Jehanabad, Bihar",Oncology
+936,Dr. Pankaj Dubey,Female,"Jehanabad, Bihar",Surgery
+937,Dr. Smita Kulkarni,Female,"Jehanabad, Bihar",Fever
+938,Dr. Abhishek Singh,Female,"Jehanabad, Bihar",Cough
+939,Dr. Radhika Nair,Female,"Jehanabad, Bihar",Cold
+940,Dr. Mohan Rao,Female,"Jehanabad, Bihar",Headache
+941,Dr. Preeti Sharma,Female,"Jehanabad, Bihar",Stomach Pain
+942,Dr. Yogesh Patil,Female,"Jehanabad, Bihar",Back Pain
+943,Dr. Anil Sahu,Female,"Jehanabad, Bihar",Diabetes
+944,Dr. Suman Mishra,Female,"Jehanabad, Bihar",Hypertension
+945,Dr. Rakesh Kumar,Female,"Jehanabad, Bihar",Asthma
+946,Dr. Nidhi Verma,Female,"Jehanabad, Bihar",Allergy
+947,Dr. Amit Sinha,Female,"Jehanabad, Bihar",Migraine
+948,Dr. Seema Gupta,Female,"Jehanabad, Bihar",Skin Rash
+949,Dr. Dinesh Kumar,Female,"Jehanabad, Bihar",Chest Pain
+950,Dr. Pooja Singh,Female,"Jehanabad, Bihar",Joint Pain
+951,Dr. Rajesh Sharma,Female,"Jehanabad, Bihar",Infection
+952,Dr. Priya Reddy,Female,"Jehanabad, Bihar",Weakness
+953,Dr. Anil Kumar,Female,"Kaimur, Bihar",General Medicine
+954,Dr. Sunita Singh,Female,"Kaimur, Bihar",Pediatrics
+955,Dr. Suresh Gupta,Female,"Kaimur, Bihar",Dermatology
+956,Dr. Meena Joshi,Female,"Kaimur, Bihar",Cardiology
+957,Dr. Amitabh Verma,Female,"Kaimur, Bihar",Neurology
+958,Dr. Kavita Mishra,Female,"Kaimur, Bihar",Orthopedics
+959,Dr. Manoj Sinha,Female,"Kaimur, Bihar",ENT
+960,Dr. Neha Pandey,Female,"Kaimur, Bihar",Pulmonology
+961,Dr. Rakesh Yadav,Female,"Kaimur, Bihar",Gastroenterology
+962,Dr. Swati Jha,Female,"Kaimur, Bihar",Endocrinology
+963,Dr. Sanjay Das,Female,"Kaimur, Bihar",Psychiatry
+964,Dr. Pooja Agarwal,Female,"Kaimur, Bihar",Ophthalmology
+965,Dr. Ajay Kumar,Female,"Kaimur, Bihar",Dentistry
+966,Dr. Shalini Rao,Female,"Kaimur, Bihar",Gynecology
+967,Dr. Deepak Singh,Female,"Kaimur, Bihar",Urology
+968,Dr. Ritu Sinha,Female,"Kaimur, Bihar",Nephrology
+969,Dr. Arvind Patel,Female,"Kaimur, Bihar",Oncology
+970,Dr. Sneha Chatterjee,Female,"Kaimur, Bihar",Surgery
+971,Dr. Vikram Chauhan,Female,"Kaimur, Bihar",Fever
+972,Dr. Nisha Jain,Female,"Kaimur, Bihar",Cough
+973,Dr. Alok Tripathi,Female,"Kaimur, Bihar",Cold
+974,Dr. Ramesh Babu,Female,"Kaimur, Bihar",Headache
+975,Dr. Vandana Iyer,Female,"Kaimur, Bihar",Stomach Pain
+976,Dr. Gaurav Saxena,Female,"Kaimur, Bihar",Back Pain
+977,Dr. Shweta Menon,Female,"Kaimur, Bihar",Diabetes
+978,Dr. Pradeep Joshi,Female,"Kaimur, Bihar",Hypertension
+979,Dr. Anju Thomas,Female,"Kaimur, Bihar",Asthma
+980,Dr. Sandeep Kaur,Female,"Kaimur, Bihar",Allergy
+981,Dr. Manoj Pillai,Female,"Kaimur, Bihar",Migraine
+982,Dr. Ruchi Sinha,Female,"Kaimur, Bihar",Skin Rash
+983,Dr. Ashok Mehta,Female,"Kaimur, Bihar",Chest Pain
+984,Dr. Jyoti Rani,Female,"Kaimur, Bihar",Joint Pain
+985,Dr. Kiran Desai,Female,"Kaimur, Bihar",Infection
+986,Dr. Pankaj Dubey,Female,"Kaimur, Bihar",Weakness
+987,Dr. Smita Kulkarni,Female,"Katihar, Bihar",General Medicine
+988,Dr. Abhishek Singh,Female,"Katihar, Bihar",Pediatrics
+989,Dr. Radhika Nair,Female,"Katihar, Bihar",Dermatology
+990,Dr. Mohan Rao,Female,"Katihar, Bihar",Cardiology
+991,Dr. Preeti Sharma,Female,"Katihar, Bihar",Neurology
+992,Dr. Yogesh Patil,Female,"Katihar, Bihar",Orthopedics
+993,Dr. Anil Sahu,Female,"Katihar, Bihar",ENT
+994,Dr. Suman Mishra,Female,"Katihar, Bihar",Pulmonology
+995,Dr. Rakesh Kumar,Female,"Katihar, Bihar",Gastroenterology
+996,Dr. Nidhi Verma,Female,"Katihar, Bihar",Endocrinology
+997,Dr. Amit Sinha,Female,"Katihar, Bihar",Psychiatry
+998,Dr. Seema Gupta,Female,"Katihar, Bihar",Ophthalmology
+999,Dr. Dinesh Kumar,Female,"Katihar, Bihar",Dentistry
+1000,Dr. Pooja Singh,Female,"Katihar, Bihar",Gynecology
+1001,Dr. Rajesh Sharma,Female,"Katihar, Bihar",Urology
+1002,Dr. Priya Reddy,Female,"Katihar, Bihar",Nephrology
+1003,Dr. Anil Kumar,Female,"Katihar, Bihar",Oncology
+1004,Dr. Sunita Singh,Female,"Katihar, Bihar",Surgery
+1005,Dr. Suresh Gupta,Female,"Katihar, Bihar",Fever
+1006,Dr. Meena Joshi,Female,"Katihar, Bihar",Cough
+1007,Dr. Amitabh Verma,Female,"Katihar, Bihar",Cold
+1008,Dr. Kavita Mishra,Female,"Katihar, Bihar",Headache
+1009,Dr. Manoj Sinha,Female,"Katihar, Bihar",Stomach Pain
+1010,Dr. Neha Pandey,Female,"Katihar, Bihar",Back Pain
+1011,Dr. Rakesh Yadav,Female,"Katihar, Bihar",Diabetes
+1012,Dr. Swati Jha,Female,"Katihar, Bihar",Hypertension
+1013,Dr. Sanjay Das,Female,"Katihar, Bihar",Asthma
+1014,Dr. Pooja Agarwal,Female,"Katihar, Bihar",Allergy
+1015,Dr. Ajay Kumar,Female,"Katihar, Bihar",Migraine
+1016,Dr. Shalini Rao,Female,"Katihar, Bihar",Skin Rash
+1017,Dr. Deepak Singh,Female,"Katihar, Bihar",Chest Pain
+1018,Dr. Ritu Sinha,Female,"Katihar, Bihar",Joint Pain
+1019,Dr. Arvind Patel,Female,"Katihar, Bihar",Infection
+1020,Dr. Sneha Chatterjee,Female,"Katihar, Bihar",Weakness
+1021,Dr. Vikram Chauhan,Female,"Khagaria, Bihar",General Medicine
+1022,Dr. Nisha Jain,Female,"Khagaria, Bihar",Pediatrics
+1023,Dr. Alok Tripathi,Female,"Khagaria, Bihar",Dermatology
+1024,Dr. Ramesh Babu,Female,"Khagaria, Bihar",Cardiology
+1025,Dr. Vandana Iyer,Female,"Khagaria, Bihar",Neurology
+1026,Dr. Gaurav Saxena,Female,"Khagaria, Bihar",Orthopedics
+1027,Dr. Shweta Menon,Female,"Khagaria, Bihar",ENT
+1028,Dr. Pradeep Joshi,Female,"Khagaria, Bihar",Pulmonology
+1029,Dr. Anju Thomas,Female,"Khagaria, Bihar",Gastroenterology
+1030,Dr. Sandeep Kaur,Female,"Khagaria, Bihar",Endocrinology
+1031,Dr. Manoj Pillai,Female,"Khagaria, Bihar",Psychiatry
+1032,Dr. Ruchi Sinha,Female,"Khagaria, Bihar",Ophthalmology
+1033,Dr. Ashok Mehta,Female,"Khagaria, Bihar",Dentistry
+1034,Dr. Jyoti Rani,Female,"Khagaria, Bihar",Gynecology
+1035,Dr. Kiran Desai,Female,"Khagaria, Bihar",Urology
+1036,Dr. Pankaj Dubey,Female,"Khagaria, Bihar",Nephrology
+1037,Dr. Smita Kulkarni,Female,"Khagaria, Bihar",Oncology
+1038,Dr. Abhishek Singh,Female,"Khagaria, Bihar",Surgery
+1039,Dr. Radhika Nair,Female,"Khagaria, Bihar",Fever
+1040,Dr. Mohan Rao,Female,"Khagaria, Bihar",Cough
+1041,Dr. Preeti Sharma,Female,"Khagaria, Bihar",Cold
+1042,Dr. Yogesh Patil,Female,"Khagaria, Bihar",Headache
+1043,Dr. Anil Sahu,Female,"Khagaria, Bihar",Stomach Pain
+1044,Dr. Suman Mishra,Female,"Khagaria, Bihar",Back Pain
+1045,Dr. Rakesh Kumar,Female,"Khagaria, Bihar",Diabetes
+1046,Dr. Nidhi Verma,Female,"Khagaria, Bihar",Hypertension
+1047,Dr. Amit Sinha,Female,"Khagaria, Bihar",Asthma
+1048,Dr. Seema Gupta,Female,"Khagaria, Bihar",Allergy
+1049,Dr. Dinesh Kumar,Female,"Khagaria, Bihar",Migraine
+1050,Dr. Pooja Singh,Female,"Khagaria, Bihar",Skin Rash
+1051,Dr. Rajesh Sharma,Female,"Khagaria, Bihar",Chest Pain
+1052,Dr. Priya Reddy,Female,"Khagaria, Bihar",Joint Pain
+1053,Dr. Anil Kumar,Female,"Khagaria, Bihar",Infection
+1054,Dr. Sunita Singh,Female,"Khagaria, Bihar",Weakness
+1055,Dr. Suresh Gupta,Female,"Kishanganj, Bihar",General Medicine
+1056,Dr. Meena Joshi,Female,"Kishanganj, Bihar",Pediatrics
+1057,Dr. Amitabh Verma,Female,"Kishanganj, Bihar",Dermatology
+1058,Dr. Kavita Mishra,Female,"Kishanganj, Bihar",Cardiology
+1059,Dr. Manoj Sinha,Female,"Kishanganj, Bihar",Neurology
+1060,Dr. Neha Pandey,Female,"Kishanganj, Bihar",Orthopedics
+1061,Dr. Rakesh Yadav,Female,"Kishanganj, Bihar",ENT
+1062,Dr. Swati Jha,Female,"Kishanganj, Bihar",Pulmonology
+1063,Dr. Sanjay Das,Female,"Kishanganj, Bihar",Gastroenterology
+1064,Dr. Pooja Agarwal,Female,"Kishanganj, Bihar",Endocrinology
+1065,Dr. Ajay Kumar,Female,"Kishanganj, Bihar",Psychiatry
+1066,Dr. Shalini Rao,Female,"Kishanganj, Bihar",Ophthalmology
+1067,Dr. Deepak Singh,Female,"Kishanganj, Bihar",Dentistry
+1068,Dr. Ritu Sinha,Female,"Kishanganj, Bihar",Gynecology
+1069,Dr. Arvind Patel,Female,"Kishanganj, Bihar",Urology
+1070,Dr. Sneha Chatterjee,Female,"Kishanganj, Bihar",Nephrology
+1071,Dr. Vikram Chauhan,Female,"Kishanganj, Bihar",Oncology
+1072,Dr. Nisha Jain,Female,"Kishanganj, Bihar",Surgery
+1073,Dr. Alok Tripathi,Female,"Kishanganj, Bihar",Fever
+1074,Dr. Ramesh Babu,Female,"Kishanganj, Bihar",Cough
+1075,Dr. Vandana Iyer,Female,"Kishanganj, Bihar",Cold
+1076,Dr. Gaurav Saxena,Female,"Kishanganj, Bihar",Headache
+1077,Dr. Shweta Menon,Female,"Kishanganj, Bihar",Stomach Pain
+1078,Dr. Pradeep Joshi,Female,"Kishanganj, Bihar",Back Pain
+1079,Dr. Anju Thomas,Female,"Kishanganj, Bihar",Diabetes
+1080,Dr. Sandeep Kaur,Female,"Kishanganj, Bihar",Hypertension
+1081,Dr. Manoj Pillai,Female,"Kishanganj, Bihar",Asthma
+1082,Dr. Ruchi Sinha,Female,"Kishanganj, Bihar",Allergy
+1083,Dr. Ashok Mehta,Female,"Kishanganj, Bihar",Migraine
+1084,Dr. Jyoti Rani,Female,"Kishanganj, Bihar",Skin Rash
+1085,Dr. Kiran Desai,Female,"Kishanganj, Bihar",Chest Pain
+1086,Dr. Pankaj Dubey,Female,"Kishanganj, Bihar",Joint Pain
+1087,Dr. Smita Kulkarni,Female,"Kishanganj, Bihar",Infection
+1088,Dr. Abhishek Singh,Female,"Kishanganj, Bihar",Weakness
+1089,Dr. Radhika Nair,Female,"Lakhisarai, Bihar",General Medicine
+1090,Dr. Mohan Rao,Female,"Lakhisarai, Bihar",Pediatrics
+1091,Dr. Preeti Sharma,Female,"Lakhisarai, Bihar",Dermatology
+1092,Dr. Yogesh Patil,Female,"Lakhisarai, Bihar",Cardiology
+1093,Dr. Anil Sahu,Female,"Lakhisarai, Bihar",Neurology
+1094,Dr. Suman Mishra,Female,"Lakhisarai, Bihar",Orthopedics
+1095,Dr. Rakesh Kumar,Female,"Lakhisarai, Bihar",ENT
+1096,Dr. Nidhi Verma,Female,"Lakhisarai, Bihar",Pulmonology
+1097,Dr. Amit Sinha,Female,"Lakhisarai, Bihar",Gastroenterology
+1098,Dr. Seema Gupta,Female,"Lakhisarai, Bihar",Endocrinology
+1099,Dr. Dinesh Kumar,Female,"Lakhisarai, Bihar",Psychiatry
+1100,Dr. Pooja Singh,Female,"Lakhisarai, Bihar",Ophthalmology
+1101,Dr. Rajesh Sharma,Female,"Lakhisarai, Bihar",Dentistry
+1102,Dr. Priya Reddy,Female,"Lakhisarai, Bihar",Gynecology
+1103,Dr. Anil Kumar,Female,"Lakhisarai, Bihar",Urology
+1104,Dr. Sunita Singh,Female,"Lakhisarai, Bihar",Nephrology
+1105,Dr. Suresh Gupta,Female,"Lakhisarai, Bihar",Oncology
+1106,Dr. Meena Joshi,Female,"Lakhisarai, Bihar",Surgery
+1107,Dr. Amitabh Verma,Female,"Lakhisarai, Bihar",Fever
+1108,Dr. Kavita Mishra,Female,"Lakhisarai, Bihar",Cough
+1109,Dr. Manoj Sinha,Female,"Lakhisarai, Bihar",Cold
+1110,Dr. Neha Pandey,Female,"Lakhisarai, Bihar",Headache
+1111,Dr. Rakesh Yadav,Female,"Lakhisarai, Bihar",Stomach Pain
+1112,Dr. Swati Jha,Female,"Lakhisarai, Bihar",Back Pain
+1113,Dr. Sanjay Das,Female,"Lakhisarai, Bihar",Diabetes
+1114,Dr. Pooja Agarwal,Female,"Lakhisarai, Bihar",Hypertension
+1115,Dr. Ajay Kumar,Female,"Lakhisarai, Bihar",Asthma
+1116,Dr. Shalini Rao,Female,"Lakhisarai, Bihar",Allergy
+1117,Dr. Deepak Singh,Female,"Lakhisarai, Bihar",Migraine
+1118,Dr. Ritu Sinha,Female,"Lakhisarai, Bihar",Skin Rash
+1119,Dr. Arvind Patel,Female,"Lakhisarai, Bihar",Chest Pain
+1120,Dr. Sneha Chatterjee,Female,"Lakhisarai, Bihar",Joint Pain
+1121,Dr. Vikram Chauhan,Female,"Lakhisarai, Bihar",Infection
+1122,Dr. Nisha Jain,Female,"Lakhisarai, Bihar",Weakness
+1123,Dr. Alok Tripathi,Female,"Madhepura, Bihar",General Medicine
+1124,Dr. Ramesh Babu,Female,"Madhepura, Bihar",Pediatrics
+1125,Dr. Vandana Iyer,Female,"Madhepura, Bihar",Dermatology
+1126,Dr. Gaurav Saxena,Female,"Madhepura, Bihar",Cardiology
+1127,Dr. Shweta Menon,Female,"Madhepura, Bihar",Neurology
+1128,Dr. Pradeep Joshi,Female,"Madhepura, Bihar",Orthopedics
+1129,Dr. Anju Thomas,Female,"Madhepura, Bihar",ENT
+1130,Dr. Sandeep Kaur,Female,"Madhepura, Bihar",Pulmonology
+1131,Dr. Manoj Pillai,Female,"Madhepura, Bihar",Gastroenterology
+1132,Dr. Ruchi Sinha,Female,"Madhepura, Bihar",Endocrinology
+1133,Dr. Ashok Mehta,Female,"Madhepura, Bihar",Psychiatry
+1134,Dr. Jyoti Rani,Female,"Madhepura, Bihar",Ophthalmology
+1135,Dr. Kiran Desai,Female,"Madhepura, Bihar",Dentistry
+1136,Dr. Pankaj Dubey,Female,"Madhepura, Bihar",Gynecology
+1137,Dr. Smita Kulkarni,Female,"Madhepura, Bihar",Urology
+1138,Dr. Abhishek Singh,Female,"Madhepura, Bihar",Nephrology
+1139,Dr. Radhika Nair,Female,"Madhepura, Bihar",Oncology
+1140,Dr. Mohan Rao,Female,"Madhepura, Bihar",Surgery
+1141,Dr. Preeti Sharma,Female,"Madhepura, Bihar",Fever
+1142,Dr. Yogesh Patil,Female,"Madhepura, Bihar",Cough
+1143,Dr. Anil Sahu,Female,"Madhepura, Bihar",Cold
+1144,Dr. Suman Mishra,Female,"Madhepura, Bihar",Headache
+1145,Dr. Rakesh Kumar,Female,"Madhepura, Bihar",Stomach Pain
+1146,Dr. Nidhi Verma,Female,"Madhepura, Bihar",Back Pain
+1147,Dr. Amit Sinha,Female,"Madhepura, Bihar",Diabetes
+1148,Dr. Seema Gupta,Female,"Madhepura, Bihar",Hypertension
+1149,Dr. Dinesh Kumar,Female,"Madhepura, Bihar",Asthma
+1150,Dr. Pooja Singh,Female,"Madhepura, Bihar",Allergy
+1151,Dr. Rajesh Sharma,Female,"Madhepura, Bihar",Migraine
+1152,Dr. Priya Reddy,Female,"Madhepura, Bihar",Skin Rash
+1153,Dr. Anil Kumar,Female,"Madhepura, Bihar",Chest Pain
+1154,Dr. Sunita Singh,Female,"Madhepura, Bihar",Joint Pain
+1155,Dr. Suresh Gupta,Female,"Madhepura, Bihar",Infection
+1156,Dr. Meena Joshi,Female,"Madhepura, Bihar",Weakness
+1157,Dr. Amitabh Verma,Female,"Madhubani, Bihar",General Medicine
+1158,Dr. Kavita Mishra,Female,"Madhubani, Bihar",Pediatrics
+1159,Dr. Manoj Sinha,Female,"Madhubani, Bihar",Dermatology
+1160,Dr. Neha Pandey,Female,"Madhubani, Bihar",Cardiology
+1161,Dr. Rakesh Yadav,Female,"Madhubani, Bihar",Neurology
+1162,Dr. Swati Jha,Female,"Madhubani, Bihar",Orthopedics
+1163,Dr. Sanjay Das,Female,"Madhubani, Bihar",ENT
+1164,Dr. Pooja Agarwal,Female,"Madhubani, Bihar",Pulmonology
+1165,Dr. Ajay Kumar,Female,"Madhubani, Bihar",Gastroenterology
+1166,Dr. Shalini Rao,Female,"Madhubani, Bihar",Endocrinology
+1167,Dr. Deepak Singh,Female,"Madhubani, Bihar",Psychiatry
+1168,Dr. Ritu Sinha,Female,"Madhubani, Bihar",Ophthalmology
+1169,Dr. Arvind Patel,Female,"Madhubani, Bihar",Dentistry
+1170,Dr. Sneha Chatterjee,Female,"Madhubani, Bihar",Gynecology
+1171,Dr. Vikram Chauhan,Female,"Madhubani, Bihar",Urology
+1172,Dr. Nisha Jain,Female,"Madhubani, Bihar",Nephrology
+1173,Dr. Alok Tripathi,Female,"Madhubani, Bihar",Oncology
+1174,Dr. Ramesh Babu,Female,"Madhubani, Bihar",Surgery
+1175,Dr. Vandana Iyer,Female,"Madhubani, Bihar",Fever
+1176,Dr. Gaurav Saxena,Female,"Madhubani, Bihar",Cough
+1177,Dr. Shweta Menon,Female,"Madhubani, Bihar",Cold
+1178,Dr. Pradeep Joshi,Female,"Madhubani, Bihar",Headache
+1179,Dr. Anju Thomas,Female,"Madhubani, Bihar",Stomach Pain
+1180,Dr. Sandeep Kaur,Female,"Madhubani, Bihar",Back Pain
+1181,Dr. Manoj Pillai,Female,"Madhubani, Bihar",Diabetes
+1182,Dr. Ruchi Sinha,Female,"Madhubani, Bihar",Hypertension
+1183,Dr. Ashok Mehta,Female,"Madhubani, Bihar",Asthma
+1184,Dr. Jyoti Rani,Female,"Madhubani, Bihar",Allergy
+1185,Dr. Kiran Desai,Female,"Madhubani, Bihar",Migraine
+1186,Dr. Pankaj Dubey,Female,"Madhubani, Bihar",Skin Rash
+1187,Dr. Smita Kulkarni,Female,"Madhubani, Bihar",Chest Pain
+1188,Dr. Abhishek Singh,Female,"Madhubani, Bihar",Joint Pain
+1189,Dr. Radhika Nair,Female,"Madhubani, Bihar",Infection
+1190,Dr. Mohan Rao,Female,"Madhubani, Bihar",Weakness
+1191,Dr. Preeti Sharma,Female,"Munger, Bihar",General Medicine
+1192,Dr. Yogesh Patil,Female,"Munger, Bihar",Pediatrics
+1193,Dr. Anil Sahu,Female,"Munger, Bihar",Dermatology
+1194,Dr. Suman Mishra,Female,"Munger, Bihar",Cardiology
+1195,Dr. Rakesh Kumar,Female,"Munger, Bihar",Neurology
+1196,Dr. Nidhi Verma,Female,"Munger, Bihar",Orthopedics
+1197,Dr. Amit Sinha,Female,"Munger, Bihar",ENT
+1198,Dr. Seema Gupta,Female,"Munger, Bihar",Pulmonology
+1199,Dr. Dinesh Kumar,Female,"Munger, Bihar",Gastroenterology
+1200,Dr. Pooja Singh,Female,"Munger, Bihar",Endocrinology
+1201,Dr. Rajesh Sharma,Female,"Munger, Bihar",Psychiatry
+1202,Dr. Priya Reddy,Female,"Munger, Bihar",Ophthalmology
+1203,Dr. Anil Kumar,Female,"Munger, Bihar",Dentistry
+1204,Dr. Sunita Singh,Female,"Munger, Bihar",Gynecology
+1205,Dr. Suresh Gupta,Female,"Munger, Bihar",Urology
+1206,Dr. Meena Joshi,Female,"Munger, Bihar",Nephrology
+1207,Dr. Amitabh Verma,Female,"Munger, Bihar",Oncology
+1208,Dr. Kavita Mishra,Female,"Munger, Bihar",Surgery
+1209,Dr. Manoj Sinha,Female,"Munger, Bihar",Fever
+1210,Dr. Neha Pandey,Female,"Munger, Bihar",Cough
+1211,Dr. Rakesh Yadav,Female,"Munger, Bihar",Cold
+1212,Dr. Swati Jha,Female,"Munger, Bihar",Headache
+1213,Dr. Sanjay Das,Female,"Munger, Bihar",Stomach Pain
+1214,Dr. Pooja Agarwal,Female,"Munger, Bihar",Back Pain
+1215,Dr. Ajay Kumar,Female,"Munger, Bihar",Diabetes
+1216,Dr. Shalini Rao,Female,"Munger, Bihar",Hypertension
+1217,Dr. Deepak Singh,Female,"Munger, Bihar",Asthma
+1218,Dr. Ritu Sinha,Female,"Munger, Bihar",Allergy
+1219,Dr. Arvind Patel,Female,"Munger, Bihar",Migraine
+1220,Dr. Sneha Chatterjee,Female,"Munger, Bihar",Skin Rash
+1221,Dr. Vikram Chauhan,Female,"Munger, Bihar",Chest Pain
+1222,Dr. Nisha Jain,Female,"Munger, Bihar",Joint Pain
+1223,Dr. Alok Tripathi,Female,"Munger, Bihar",Infection
+1224,Dr. Ramesh Babu,Female,"Munger, Bihar",Weakness
+1225,Dr. Vandana Iyer,Female,"Muzaffarpur, Bihar",General Medicine
+1226,Dr. Gaurav Saxena,Female,"Muzaffarpur, Bihar",Pediatrics
+1227,Dr. Shweta Menon,Female,"Muzaffarpur, Bihar",Dermatology
+1228,Dr. Pradeep Joshi,Female,"Muzaffarpur, Bihar",Cardiology
+1229,Dr. Anju Thomas,Female,"Muzaffarpur, Bihar",Neurology
+1230,Dr. Sandeep Kaur,Female,"Muzaffarpur, Bihar",Orthopedics
+1231,Dr. Manoj Pillai,Female,"Muzaffarpur, Bihar",ENT
+1232,Dr. Ruchi Sinha,Female,"Muzaffarpur, Bihar",Pulmonology
+1233,Dr. Ashok Mehta,Female,"Muzaffarpur, Bihar",Gastroenterology
+1234,Dr. Jyoti Rani,Female,"Muzaffarpur, Bihar",Endocrinology
+1235,Dr. Kiran Desai,Female,"Muzaffarpur, Bihar",Psychiatry
+1236,Dr. Pankaj Dubey,Female,"Muzaffarpur, Bihar",Ophthalmology
+1237,Dr. Smita Kulkarni,Female,"Muzaffarpur, Bihar",Dentistry
+1238,Dr. Abhishek Singh,Female,"Muzaffarpur, Bihar",Gynecology
+1239,Dr. Radhika Nair,Female,"Muzaffarpur, Bihar",Urology
+1240,Dr. Mohan Rao,Female,"Muzaffarpur, Bihar",Nephrology
+1241,Dr. Preeti Sharma,Female,"Muzaffarpur, Bihar",Oncology
+1242,Dr. Yogesh Patil,Female,"Muzaffarpur, Bihar",Surgery
+1243,Dr. Anil Sahu,Female,"Muzaffarpur, Bihar",Fever
+1244,Dr. Suman Mishra,Female,"Muzaffarpur, Bihar",Cough
+1245,Dr. Rakesh Kumar,Female,"Muzaffarpur, Bihar",Cold
+1246,Dr. Nidhi Verma,Female,"Muzaffarpur, Bihar",Headache
+1247,Dr. Amit Sinha,Female,"Muzaffarpur, Bihar",Stomach Pain
+1248,Dr. Seema Gupta,Female,"Muzaffarpur, Bihar",Back Pain
+1249,Dr. Dinesh Kumar,Female,"Muzaffarpur, Bihar",Diabetes
+1250,Dr. Pooja Singh,Female,"Muzaffarpur, Bihar",Hypertension
+1251,Dr. Rajesh Sharma,Female,"Muzaffarpur, Bihar",Asthma
+1252,Dr. Priya Reddy,Female,"Muzaffarpur, Bihar",Allergy
+1253,Dr. Anil Kumar,Female,"Muzaffarpur, Bihar",Migraine
+1254,Dr. Sunita Singh,Female,"Muzaffarpur, Bihar",Skin Rash
+1255,Dr. Suresh Gupta,Female,"Muzaffarpur, Bihar",Chest Pain
+1256,Dr. Meena Joshi,Female,"Muzaffarpur, Bihar",Joint Pain
+1257,Dr. Amitabh Verma,Female,"Muzaffarpur, Bihar",Infection
+1258,Dr. Kavita Mishra,Female,"Muzaffarpur, Bihar",Weakness
+1259,Dr. Manoj Sinha,Female,"Nalanda, Bihar",General Medicine
+1260,Dr. Neha Pandey,Female,"Nalanda, Bihar",Pediatrics
+1261,Dr. Rakesh Yadav,Female,"Nalanda, Bihar",Dermatology
+1262,Dr. Swati Jha,Female,"Nalanda, Bihar",Cardiology
+1263,Dr. Sanjay Das,Female,"Nalanda, Bihar",Neurology
+1264,Dr. Pooja Agarwal,Female,"Nalanda, Bihar",Orthopedics
+1265,Dr. Ajay Kumar,Female,"Nalanda, Bihar",ENT
+1266,Dr. Shalini Rao,Female,"Nalanda, Bihar",Pulmonology
+1267,Dr. Deepak Singh,Female,"Nalanda, Bihar",Gastroenterology
+1268,Dr. Ritu Sinha,Female,"Nalanda, Bihar",Endocrinology
+1269,Dr. Arvind Patel,Female,"Nalanda, Bihar",Psychiatry
+1270,Dr. Sneha Chatterjee,Female,"Nalanda, Bihar",Ophthalmology
+1271,Dr. Vikram Chauhan,Female,"Nalanda, Bihar",Dentistry
+1272,Dr. Nisha Jain,Female,"Nalanda, Bihar",Gynecology
+1273,Dr. Alok Tripathi,Female,"Nalanda, Bihar",Urology
+1274,Dr. Ramesh Babu,Female,"Nalanda, Bihar",Nephrology
+1275,Dr. Vandana Iyer,Female,"Nalanda, Bihar",Oncology
+1276,Dr. Gaurav Saxena,Female,"Nalanda, Bihar",Surgery
+1277,Dr. Shweta Menon,Female,"Nalanda, Bihar",Fever
+1278,Dr. Pradeep Joshi,Female,"Nalanda, Bihar",Cough
+1279,Dr. Anju Thomas,Female,"Nalanda, Bihar",Cold
+1280,Dr. Sandeep Kaur,Female,"Nalanda, Bihar",Headache
+1281,Dr. Manoj Pillai,Female,"Nalanda, Bihar",Stomach Pain
+1282,Dr. Ruchi Sinha,Female,"Nalanda, Bihar",Back Pain
+1283,Dr. Ashok Mehta,Female,"Nalanda, Bihar",Diabetes
+1284,Dr. Jyoti Rani,Female,"Nalanda, Bihar",Hypertension
+1285,Dr. Kiran Desai,Female,"Nalanda, Bihar",Asthma
+1286,Dr. Pankaj Dubey,Female,"Nalanda, Bihar",Allergy
+1287,Dr. Smita Kulkarni,Female,"Nalanda, Bihar",Migraine
+1288,Dr. Abhishek Singh,Female,"Nalanda, Bihar",Skin Rash
+1289,Dr. Radhika Nair,Female,"Nalanda, Bihar",Chest Pain
+1290,Dr. Mohan Rao,Female,"Nalanda, Bihar",Joint Pain
+1291,Dr. Preeti Sharma,Female,"Nalanda, Bihar",Infection
+1292,Dr. Yogesh Patil,Female,"Nalanda, Bihar",Weakness
+1293,Dr. Anil Sahu,Female,"Nawada, Bihar",General Medicine
+1294,Dr. Suman Mishra,Female,"Nawada, Bihar",Pediatrics
+1295,Dr. Rakesh Kumar,Female,"Nawada, Bihar",Dermatology
+1296,Dr. Nidhi Verma,Female,"Nawada, Bihar",Cardiology
+1297,Dr. Amit Sinha,Female,"Nawada, Bihar",Neurology
+1298,Dr. Seema Gupta,Female,"Nawada, Bihar",Orthopedics
+1299,Dr. Dinesh Kumar,Female,"Nawada, Bihar",ENT
+1300,Dr. Pooja Singh,Female,"Nawada, Bihar",Pulmonology
+1301,Dr. Rajesh Sharma,Female,"Nawada, Bihar",Gastroenterology
+1302,Dr. Priya Reddy,Female,"Nawada, Bihar",Endocrinology
+1303,Dr. Anil Kumar,Female,"Nawada, Bihar",Psychiatry
+1304,Dr. Sunita Singh,Female,"Nawada, Bihar",Ophthalmology
+1305,Dr. Suresh Gupta,Female,"Nawada, Bihar",Dentistry
+1306,Dr. Meena Joshi,Female,"Nawada, Bihar",Gynecology
+1307,Dr. Amitabh Verma,Female,"Nawada, Bihar",Urology
+1308,Dr. Kavita Mishra,Female,"Nawada, Bihar",Nephrology
+1309,Dr. Manoj Sinha,Female,"Nawada, Bihar",Oncology
+1310,Dr. Neha Pandey,Female,"Nawada, Bihar",Surgery
+1311,Dr. Rakesh Yadav,Female,"Nawada, Bihar",Fever
+1312,Dr. Swati Jha,Female,"Nawada, Bihar",Cough
+1313,Dr. Sanjay Das,Female,"Nawada, Bihar",Cold
+1314,Dr. Pooja Agarwal,Female,"Nawada, Bihar",Headache
+1315,Dr. Ajay Kumar,Female,"Nawada, Bihar",Stomach Pain
+1316,Dr. Shalini Rao,Female,"Nawada, Bihar",Back Pain
+1317,Dr. Deepak Singh,Female,"Nawada, Bihar",Diabetes
+1318,Dr. Ritu Sinha,Female,"Nawada, Bihar",Hypertension
+1319,Dr. Arvind Patel,Female,"Nawada, Bihar",Asthma
+1320,Dr. Sneha Chatterjee,Female,"Nawada, Bihar",Allergy
+1321,Dr. Vikram Chauhan,Female,"Nawada, Bihar",Migraine
+1322,Dr. Nisha Jain,Female,"Nawada, Bihar",Skin Rash
+1323,Dr. Alok Tripathi,Female,"Nawada, Bihar",Chest Pain
+1324,Dr. Ramesh Babu,Female,"Nawada, Bihar",Joint Pain
+1325,Dr. Vandana Iyer,Female,"Nawada, Bihar",Infection
+1326,Dr. Gaurav Saxena,Female,"Nawada, Bihar",Weakness
+1327,Dr. Shweta Menon,Female,"Patna, Bihar",General Medicine
+1328,Dr. Pradeep Joshi,Female,"Patna, Bihar",Pediatrics
+1329,Dr. Anju Thomas,Female,"Patna, Bihar",Dermatology
+1330,Dr. Sandeep Kaur,Female,"Patna, Bihar",Cardiology
+1331,Dr. Manoj Pillai,Female,"Patna, Bihar",Neurology
+1332,Dr. Ruchi Sinha,Female,"Patna, Bihar",Orthopedics
+1333,Dr. Ashok Mehta,Female,"Patna, Bihar",ENT
+1334,Dr. Jyoti Rani,Female,"Patna, Bihar",Pulmonology
+1335,Dr. Kiran Desai,Female,"Patna, Bihar",Gastroenterology
+1336,Dr. Pankaj Dubey,Female,"Patna, Bihar",Endocrinology
+1337,Dr. Smita Kulkarni,Female,"Patna, Bihar",Psychiatry
+1338,Dr. Abhishek Singh,Female,"Patna, Bihar",Ophthalmology
+1339,Dr. Radhika Nair,Female,"Patna, Bihar",Dentistry
+1340,Dr. Mohan Rao,Female,"Patna, Bihar",Gynecology
+1341,Dr. Preeti Sharma,Female,"Patna, Bihar",Urology
+1342,Dr. Yogesh Patil,Female,"Patna, Bihar",Nephrology
+1343,Dr. Anil Sahu,Female,"Patna, Bihar",Oncology
+1344,Dr. Suman Mishra,Female,"Patna, Bihar",Surgery
+1345,Dr. Rakesh Kumar,Female,"Patna, Bihar",Fever
+1346,Dr. Nidhi Verma,Female,"Patna, Bihar",Cough
+1347,Dr. Amit Sinha,Female,"Patna, Bihar",Cold
+1348,Dr. Seema Gupta,Female,"Patna, Bihar",Headache
+1349,Dr. Dinesh Kumar,Female,"Patna, Bihar",Stomach Pain
+1350,Dr. Pooja Singh,Female,"Patna, Bihar",Back Pain
+1351,Dr. Rajesh Sharma,Female,"Patna, Bihar",Diabetes
+1352,Dr. Priya Reddy,Female,"Patna, Bihar",Hypertension
+1353,Dr. Anil Kumar,Female,"Patna, Bihar",Asthma
+1354,Dr. Sunita Singh,Female,"Patna, Bihar",Allergy
+1355,Dr. Suresh Gupta,Female,"Patna, Bihar",Migraine
+1356,Dr. Meena Joshi,Female,"Patna, Bihar",Skin Rash
+1357,Dr. Amitabh Verma,Female,"Patna, Bihar",Chest Pain
+1358,Dr. Kavita Mishra,Female,"Patna, Bihar",Joint Pain
+1359,Dr. Manoj Sinha,Female,"Patna, Bihar",Infection
+1360,Dr. Neha Pandey,Female,"Patna, Bihar",Weakness
+1361,Dr. Rakesh Yadav,Female,"Purnia, Bihar",General Medicine
+1362,Dr. Swati Jha,Female,"Purnia, Bihar",Pediatrics
+1363,Dr. Sanjay Das,Female,"Purnia, Bihar",Dermatology
+1364,Dr. Pooja Agarwal,Female,"Purnia, Bihar",Cardiology
+1365,Dr. Ajay Kumar,Female,"Purnia, Bihar",Neurology
+1366,Dr. Shalini Rao,Female,"Purnia, Bihar",Orthopedics
+1367,Dr. Deepak Singh,Female,"Purnia, Bihar",ENT
+1368,Dr. Ritu Sinha,Female,"Purnia, Bihar",Pulmonology
+1369,Dr. Arvind Patel,Female,"Purnia, Bihar",Gastroenterology
+1370,Dr. Sneha Chatterjee,Female,"Purnia, Bihar",Endocrinology
+1371,Dr. Vikram Chauhan,Female,"Purnia, Bihar",Psychiatry
+1372,Dr. Nisha Jain,Female,"Purnia, Bihar",Ophthalmology
+1373,Dr. Alok Tripathi,Female,"Purnia, Bihar",Dentistry
+1374,Dr. Ramesh Babu,Female,"Purnia, Bihar",Gynecology
+1375,Dr. Vandana Iyer,Female,"Purnia, Bihar",Urology
+1376,Dr. Gaurav Saxena,Female,"Purnia, Bihar",Nephrology
+1377,Dr. Shweta Menon,Female,"Purnia, Bihar",Oncology
+1378,Dr. Pradeep Joshi,Female,"Purnia, Bihar",Surgery
+1379,Dr. Anju Thomas,Female,"Purnia, Bihar",Fever
+1380,Dr. Sandeep Kaur,Female,"Purnia, Bihar",Cough
+1381,Dr. Manoj Pillai,Female,"Purnia, Bihar",Cold
+1382,Dr. Ruchi Sinha,Female,"Purnia, Bihar",Headache
+1383,Dr. Ashok Mehta,Female,"Purnia, Bihar",Stomach Pain
+1384,Dr. Jyoti Rani,Female,"Purnia, Bihar",Back Pain
+1385,Dr. Kiran Desai,Female,"Purnia, Bihar",Diabetes
+1386,Dr. Pankaj Dubey,Female,"Purnia, Bihar",Hypertension
+1387,Dr. Smita Kulkarni,Female,"Purnia, Bihar",Asthma
+1388,Dr. Abhishek Singh,Female,"Purnia, Bihar",Allergy
+1389,Dr. Radhika Nair,Female,"Purnia, Bihar",Migraine
+1390,Dr. Mohan Rao,Female,"Purnia, Bihar",Skin Rash
+1391,Dr. Preeti Sharma,Female,"Purnia, Bihar",Chest Pain
+1392,Dr. Yogesh Patil,Female,"Purnia, Bihar",Joint Pain
+1393,Dr. Anil Sahu,Female,"Purnia, Bihar",Infection
+1394,Dr. Suman Mishra,Female,"Purnia, Bihar",Weakness
+1395,Dr. Rakesh Kumar,Female,"Rohtas, Bihar",General Medicine
+1396,Dr. Nidhi Verma,Female,"Rohtas, Bihar",Pediatrics
+1397,Dr. Amit Sinha,Female,"Rohtas, Bihar",Dermatology
+1398,Dr. Seema Gupta,Female,"Rohtas, Bihar",Cardiology
+1399,Dr. Dinesh Kumar,Female,"Rohtas, Bihar",Neurology
+1400,Dr. Pooja Singh,Female,"Rohtas, Bihar",Orthopedics
+1401,Dr. Rajesh Sharma,Female,"Rohtas, Bihar",ENT
+1402,Dr. Priya Reddy,Female,"Rohtas, Bihar",Pulmonology
+1403,Dr. Anil Kumar,Female,"Rohtas, Bihar",Gastroenterology
+1404,Dr. Sunita Singh,Female,"Rohtas, Bihar",Endocrinology
+1405,Dr. Suresh Gupta,Female,"Rohtas, Bihar",Psychiatry
+1406,Dr. Meena Joshi,Female,"Rohtas, Bihar",Ophthalmology
+1407,Dr. Amitabh Verma,Female,"Rohtas, Bihar",Dentistry
+1408,Dr. Kavita Mishra,Female,"Rohtas, Bihar",Gynecology
+1409,Dr. Manoj Sinha,Female,"Rohtas, Bihar",Urology
+1410,Dr. Neha Pandey,Female,"Rohtas, Bihar",Nephrology
+1411,Dr. Rakesh Yadav,Female,"Rohtas, Bihar",Oncology
+1412,Dr. Swati Jha,Female,"Rohtas, Bihar",Surgery
+1413,Dr. Sanjay Das,Female,"Rohtas, Bihar",Fever
+1414,Dr. Pooja Agarwal,Female,"Rohtas, Bihar",Cough
+1415,Dr. Ajay Kumar,Female,"Rohtas, Bihar",Cold
+1416,Dr. Shalini Rao,Female,"Rohtas, Bihar",Headache
+1417,Dr. Deepak Singh,Female,"Rohtas, Bihar",Stomach Pain
+1418,Dr. Ritu Sinha,Female,"Rohtas, Bihar",Back Pain
+1419,Dr. Arvind Patel,Female,"Rohtas, Bihar",Diabetes
+1420,Dr. Sneha Chatterjee,Female,"Rohtas, Bihar",Hypertension
+1421,Dr. Vikram Chauhan,Female,"Rohtas, Bihar",Asthma
+1422,Dr. Nisha Jain,Female,"Rohtas, Bihar",Allergy
+1423,Dr. Alok Tripathi,Female,"Rohtas, Bihar",Migraine
+1424,Dr. Ramesh Babu,Female,"Rohtas, Bihar",Skin Rash
+1425,Dr. Vandana Iyer,Female,"Rohtas, Bihar",Chest Pain
+1426,Dr. Gaurav Saxena,Female,"Rohtas, Bihar",Joint Pain
+1427,Dr. Shweta Menon,Female,"Rohtas, Bihar",Infection
+1428,Dr. Pradeep Joshi,Female,"Rohtas, Bihar",Weakness
+1429,Dr. Anju Thomas,Female,"Saharsa, Bihar",General Medicine
+1430,Dr. Sandeep Kaur,Female,"Saharsa, Bihar",Pediatrics
+1431,Dr. Manoj Pillai,Female,"Saharsa, Bihar",Dermatology
+1432,Dr. Ruchi Sinha,Female,"Saharsa, Bihar",Cardiology
+1433,Dr. Ashok Mehta,Female,"Saharsa, Bihar",Neurology
+1434,Dr. Jyoti Rani,Female,"Saharsa, Bihar",Orthopedics
+1435,Dr. Kiran Desai,Female,"Saharsa, Bihar",ENT
+1436,Dr. Pankaj Dubey,Female,"Saharsa, Bihar",Pulmonology
+1437,Dr. Smita Kulkarni,Female,"Saharsa, Bihar",Gastroenterology
+1438,Dr. Abhishek Singh,Female,"Saharsa, Bihar",Endocrinology
+1439,Dr. Radhika Nair,Female,"Saharsa, Bihar",Psychiatry
+1440,Dr. Mohan Rao,Female,"Saharsa, Bihar",Ophthalmology
+1441,Dr. Preeti Sharma,Female,"Saharsa, Bihar",Dentistry
+1442,Dr. Yogesh Patil,Female,"Saharsa, Bihar",Gynecology
+1443,Dr. Anil Sahu,Female,"Saharsa, Bihar",Urology
+1444,Dr. Suman Mishra,Female,"Saharsa, Bihar",Nephrology
+1445,Dr. Rakesh Kumar,Female,"Saharsa, Bihar",Oncology
+1446,Dr. Nidhi Verma,Female,"Saharsa, Bihar",Surgery
+1447,Dr. Amit Sinha,Female,"Saharsa, Bihar",Fever
+1448,Dr. Seema Gupta,Female,"Saharsa, Bihar",Cough
+1449,Dr. Dinesh Kumar,Female,"Saharsa, Bihar",Cold
+1450,Dr. Pooja Singh,Female,"Saharsa, Bihar",Headache
+1451,Dr. Rajesh Sharma,Female,"Saharsa, Bihar",Stomach Pain
+1452,Dr. Priya Reddy,Female,"Saharsa, Bihar",Back Pain
+1453,Dr. Anil Kumar,Female,"Saharsa, Bihar",Diabetes
+1454,Dr. Sunita Singh,Female,"Saharsa, Bihar",Hypertension
+1455,Dr. Suresh Gupta,Female,"Saharsa, Bihar",Asthma
+1456,Dr. Meena Joshi,Female,"Saharsa, Bihar",Allergy
+1457,Dr. Amitabh Verma,Female,"Saharsa, Bihar",Migraine
+1458,Dr. Kavita Mishra,Female,"Saharsa, Bihar",Skin Rash
+1459,Dr. Manoj Sinha,Female,"Saharsa, Bihar",Chest Pain
+1460,Dr. Neha Pandey,Female,"Saharsa, Bihar",Joint Pain
+1461,Dr. Rakesh Yadav,Female,"Saharsa, Bihar",Infection
+1462,Dr. Swati Jha,Female,"Saharsa, Bihar",Weakness
+1463,Dr. Sanjay Das,Female,"Samastipur, Bihar",General Medicine
+1464,Dr. Pooja Agarwal,Female,"Samastipur, Bihar",Pediatrics
+1465,Dr. Ajay Kumar,Female,"Samastipur, Bihar",Dermatology
+1466,Dr. Shalini Rao,Female,"Samastipur, Bihar",Cardiology
+1467,Dr. Deepak Singh,Female,"Samastipur, Bihar",Neurology
+1468,Dr. Ritu Sinha,Female,"Samastipur, Bihar",Orthopedics
+1469,Dr. Arvind Patel,Female,"Samastipur, Bihar",ENT
+1470,Dr. Sneha Chatterjee,Female,"Samastipur, Bihar",Pulmonology
+1471,Dr. Vikram Chauhan,Female,"Samastipur, Bihar",Gastroenterology
+1472,Dr. Nisha Jain,Female,"Samastipur, Bihar",Endocrinology
+1473,Dr. Alok Tripathi,Female,"Samastipur, Bihar",Psychiatry
+1474,Dr. Ramesh Babu,Female,"Samastipur, Bihar",Ophthalmology
+1475,Dr. Vandana Iyer,Female,"Samastipur, Bihar",Dentistry
+1476,Dr. Gaurav Saxena,Female,"Samastipur, Bihar",Gynecology
+1477,Dr. Shweta Menon,Female,"Samastipur, Bihar",Urology
+1478,Dr. Pradeep Joshi,Female,"Samastipur, Bihar",Nephrology
+1479,Dr. Anju Thomas,Female,"Samastipur, Bihar",Oncology
+1480,Dr. Sandeep Kaur,Female,"Samastipur, Bihar",Surgery
+1481,Dr. Manoj Pillai,Female,"Samastipur, Bihar",Fever
+1482,Dr. Ruchi Sinha,Female,"Samastipur, Bihar",Cough
+1483,Dr. Ashok Mehta,Female,"Samastipur, Bihar",Cold
+1484,Dr. Jyoti Rani,Female,"Samastipur, Bihar",Headache
+1485,Dr. Kiran Desai,Female,"Samastipur, Bihar",Stomach Pain
+1486,Dr. Pankaj Dubey,Female,"Samastipur, Bihar",Back Pain
+1487,Dr. Smita Kulkarni,Female,"Samastipur, Bihar",Diabetes
+1488,Dr. Abhishek Singh,Female,"Samastipur, Bihar",Hypertension
+1489,Dr. Radhika Nair,Female,"Samastipur, Bihar",Asthma
+1490,Dr. Mohan Rao,Female,"Samastipur, Bihar",Allergy
+1491,Dr. Preeti Sharma,Female,"Samastipur, Bihar",Migraine
+1492,Dr. Yogesh Patil,Female,"Samastipur, Bihar",Skin Rash
+1493,Dr. Anil Sahu,Female,"Samastipur, Bihar",Chest Pain
+1494,Dr. Suman Mishra,Female,"Samastipur, Bihar",Joint Pain
+1495,Dr. Rakesh Kumar,Female,"Samastipur, Bihar",Infection
+1496,Dr. Nidhi Verma,Female,"Samastipur, Bihar",Weakness
+1497,Dr. Amit Sinha,Female,"Saran, Bihar",General Medicine
+1498,Dr. Seema Gupta,Female,"Saran, Bihar",Pediatrics
+1499,Dr. Dinesh Kumar,Female,"Saran, Bihar",Dermatology
+1500,Dr. Pooja Singh,Female,"Saran, Bihar",Cardiology
+1501,Dr. Rajesh Sharma,Female,"Saran, Bihar",Neurology
+1502,Dr. Priya Reddy,Female,"Saran, Bihar",Orthopedics
+1503,Dr. Anil Kumar,Female,"Saran, Bihar",ENT
+1504,Dr. Sunita Singh,Female,"Saran, Bihar",Pulmonology
+1505,Dr. Suresh Gupta,Female,"Saran, Bihar",Gastroenterology
+1506,Dr. Meena Joshi,Female,"Saran, Bihar",Endocrinology
+1507,Dr. Amitabh Verma,Female,"Saran, Bihar",Psychiatry
+1508,Dr. Kavita Mishra,Female,"Saran, Bihar",Ophthalmology
+1509,Dr. Manoj Sinha,Female,"Saran, Bihar",Dentistry
+1510,Dr. Neha Pandey,Female,"Saran, Bihar",Gynecology
+1511,Dr. Rakesh Yadav,Female,"Saran, Bihar",Urology
+1512,Dr. Swati Jha,Female,"Saran, Bihar",Nephrology
+1513,Dr. Sanjay Das,Female,"Saran, Bihar",Oncology
+1514,Dr. Pooja Agarwal,Female,"Saran, Bihar",Surgery
+1515,Dr. Ajay Kumar,Female,"Saran, Bihar",Fever
+1516,Dr. Shalini Rao,Female,"Saran, Bihar",Cough
+1517,Dr. Deepak Singh,Female,"Saran, Bihar",Cold
+1518,Dr. Ritu Sinha,Female,"Saran, Bihar",Headache
+1519,Dr. Arvind Patel,Female,"Saran, Bihar",Stomach Pain
+1520,Dr. Sneha Chatterjee,Female,"Saran, Bihar",Back Pain
+1521,Dr. Vikram Chauhan,Female,"Saran, Bihar",Diabetes
+1522,Dr. Nisha Jain,Female,"Saran, Bihar",Hypertension
+1523,Dr. Alok Tripathi,Female,"Saran, Bihar",Asthma
+1524,Dr. Ramesh Babu,Female,"Saran, Bihar",Allergy
+1525,Dr. Vandana Iyer,Female,"Saran, Bihar",Migraine
+1526,Dr. Gaurav Saxena,Female,"Saran, Bihar",Skin Rash
+1527,Dr. Shweta Menon,Female,"Saran, Bihar",Chest Pain
+1528,Dr. Pradeep Joshi,Female,"Saran, Bihar",Joint Pain
+1529,Dr. Anju Thomas,Female,"Saran, Bihar",Infection
+1530,Dr. Sandeep Kaur,Female,"Saran, Bihar",Weakness
+1531,Dr. Manoj Pillai,Female,"Sheikhpura, Bihar",General Medicine
+1532,Dr. Ruchi Sinha,Female,"Sheikhpura, Bihar",Pediatrics
+1533,Dr. Ashok Mehta,Female,"Sheikhpura, Bihar",Dermatology
+1534,Dr. Jyoti Rani,Female,"Sheikhpura, Bihar",Cardiology
+1535,Dr. Kiran Desai,Female,"Sheikhpura, Bihar",Neurology
+1536,Dr. Pankaj Dubey,Female,"Sheikhpura, Bihar",Orthopedics
+1537,Dr. Smita Kulkarni,Female,"Sheikhpura, Bihar",ENT
+1538,Dr. Abhishek Singh,Female,"Sheikhpura, Bihar",Pulmonology
+1539,Dr. Radhika Nair,Female,"Sheikhpura, Bihar",Gastroenterology
+1540,Dr. Mohan Rao,Female,"Sheikhpura, Bihar",Endocrinology
+1541,Dr. Preeti Sharma,Female,"Sheikhpura, Bihar",Psychiatry
+1542,Dr. Yogesh Patil,Female,"Sheikhpura, Bihar",Ophthalmology
+1543,Dr. Anil Sahu,Female,"Sheikhpura, Bihar",Dentistry
+1544,Dr. Suman Mishra,Female,"Sheikhpura, Bihar",Gynecology
+1545,Dr. Rakesh Kumar,Female,"Sheikhpura, Bihar",Urology
+1546,Dr. Nidhi Verma,Female,"Sheikhpura, Bihar",Nephrology
+1547,Dr. Amit Sinha,Female,"Sheikhpura, Bihar",Oncology
+1548,Dr. Seema Gupta,Female,"Sheikhpura, Bihar",Surgery
+1549,Dr. Dinesh Kumar,Female,"Sheikhpura, Bihar",Fever
+1550,Dr. Pooja Singh,Female,"Sheikhpura, Bihar",Cough
+1551,Dr. Rajesh Sharma,Female,"Sheikhpura, Bihar",Cold
+1552,Dr. Priya Reddy,Female,"Sheikhpura, Bihar",Headache
+1553,Dr. Anil Kumar,Female,"Sheikhpura, Bihar",Stomach Pain
+1554,Dr. Sunita Singh,Female,"Sheikhpura, Bihar",Back Pain
+1555,Dr. Suresh Gupta,Female,"Sheikhpura, Bihar",Diabetes
+1556,Dr. Meena Joshi,Female,"Sheikhpura, Bihar",Hypertension
+1557,Dr. Amitabh Verma,Female,"Sheikhpura, Bihar",Asthma
+1558,Dr. Kavita Mishra,Female,"Sheikhpura, Bihar",Allergy
+1559,Dr. Manoj Sinha,Female,"Sheikhpura, Bihar",Migraine
+1560,Dr. Neha Pandey,Female,"Sheikhpura, Bihar",Skin Rash
+1561,Dr. Rakesh Yadav,Female,"Sheikhpura, Bihar",Chest Pain
+1562,Dr. Swati Jha,Female,"Sheikhpura, Bihar",Joint Pain
+1563,Dr. Sanjay Das,Female,"Sheikhpura, Bihar",Infection
+1564,Dr. Pooja Agarwal,Female,"Sheikhpura, Bihar",Weakness
+1565,Dr. Ajay Kumar,Female,"Sheohar, Bihar",General Medicine
+1566,Dr. Shalini Rao,Female,"Sheohar, Bihar",Pediatrics
+1567,Dr. Deepak Singh,Female,"Sheohar, Bihar",Dermatology
+1568,Dr. Ritu Sinha,Female,"Sheohar, Bihar",Cardiology
+1569,Dr. Arvind Patel,Female,"Sheohar, Bihar",Neurology
+1570,Dr. Sneha Chatterjee,Female,"Sheohar, Bihar",Orthopedics
+1571,Dr. Vikram Chauhan,Female,"Sheohar, Bihar",ENT
+1572,Dr. Nisha Jain,Female,"Sheohar, Bihar",Pulmonology
+1573,Dr. Alok Tripathi,Female,"Sheohar, Bihar",Gastroenterology
+1574,Dr. Ramesh Babu,Female,"Sheohar, Bihar",Endocrinology
+1575,Dr. Vandana Iyer,Female,"Sheohar, Bihar",Psychiatry
+1576,Dr. Gaurav Saxena,Female,"Sheohar, Bihar",Ophthalmology
+1577,Dr. Shweta Menon,Female,"Sheohar, Bihar",Dentistry
+1578,Dr. Pradeep Joshi,Female,"Sheohar, Bihar",Gynecology
+1579,Dr. Anju Thomas,Female,"Sheohar, Bihar",Urology
+1580,Dr. Sandeep Kaur,Female,"Sheohar, Bihar",Nephrology
+1581,Dr. Manoj Pillai,Female,"Sheohar, Bihar",Oncology
+1582,Dr. Ruchi Sinha,Female,"Sheohar, Bihar",Surgery
+1583,Dr. Ashok Mehta,Female,"Sheohar, Bihar",Fever
+1584,Dr. Jyoti Rani,Female,"Sheohar, Bihar",Cough
+1585,Dr. Kiran Desai,Female,"Sheohar, Bihar",Cold
+1586,Dr. Pankaj Dubey,Female,"Sheohar, Bihar",Headache
+1587,Dr. Smita Kulkarni,Female,"Sheohar, Bihar",Stomach Pain
+1588,Dr. Abhishek Singh,Female,"Sheohar, Bihar",Back Pain
+1589,Dr. Radhika Nair,Female,"Sheohar, Bihar",Diabetes
+1590,Dr. Mohan Rao,Female,"Sheohar, Bihar",Hypertension
+1591,Dr. Preeti Sharma,Female,"Sheohar, Bihar",Asthma
+1592,Dr. Yogesh Patil,Female,"Sheohar, Bihar",Allergy
+1593,Dr. Anil Sahu,Female,"Sheohar, Bihar",Migraine
+1594,Dr. Suman Mishra,Female,"Sheohar, Bihar",Skin Rash
+1595,Dr. Rakesh Kumar,Female,"Sheohar, Bihar",Chest Pain
+1596,Dr. Nidhi Verma,Female,"Sheohar, Bihar",Joint Pain
+1597,Dr. Amit Sinha,Female,"Sheohar, Bihar",Infection
+1598,Dr. Seema Gupta,Female,"Sheohar, Bihar",Weakness
+1599,Dr. Dinesh Kumar,Female,"Sitamarhi, Bihar",General Medicine
+1600,Dr. Pooja Singh,Female,"Sitamarhi, Bihar",Pediatrics
+1601,Dr. Rajesh Sharma,Female,"Sitamarhi, Bihar",Dermatology
+1602,Dr. Priya Reddy,Female,"Sitamarhi, Bihar",Cardiology
+1603,Dr. Anil Kumar,Female,"Sitamarhi, Bihar",Neurology
+1604,Dr. Sunita Singh,Female,"Sitamarhi, Bihar",Orthopedics
+1605,Dr. Suresh Gupta,Female,"Sitamarhi, Bihar",ENT
+1606,Dr. Meena Joshi,Female,"Sitamarhi, Bihar",Pulmonology
+1607,Dr. Amitabh Verma,Female,"Sitamarhi, Bihar",Gastroenterology
+1608,Dr. Kavita Mishra,Female,"Sitamarhi, Bihar",Endocrinology
+1609,Dr. Manoj Sinha,Female,"Sitamarhi, Bihar",Psychiatry
+1610,Dr. Neha Pandey,Female,"Sitamarhi, Bihar",Ophthalmology
+1611,Dr. Rakesh Yadav,Female,"Sitamarhi, Bihar",Dentistry
+1612,Dr. Swati Jha,Female,"Sitamarhi, Bihar",Gynecology
+1613,Dr. Sanjay Das,Female,"Sitamarhi, Bihar",Urology
+1614,Dr. Pooja Agarwal,Female,"Sitamarhi, Bihar",Nephrology
+1615,Dr. Ajay Kumar,Female,"Sitamarhi, Bihar",Oncology
+1616,Dr. Shalini Rao,Female,"Sitamarhi, Bihar",Surgery
+1617,Dr. Deepak Singh,Female,"Sitamarhi, Bihar",Fever
+1618,Dr. Ritu Sinha,Female,"Sitamarhi, Bihar",Cough
+1619,Dr. Arvind Patel,Female,"Sitamarhi, Bihar",Cold
+1620,Dr. Sneha Chatterjee,Female,"Sitamarhi, Bihar",Headache
+1621,Dr. Vikram Chauhan,Female,"Sitamarhi, Bihar",Stomach Pain
+1622,Dr. Nisha Jain,Female,"Sitamarhi, Bihar",Back Pain
+1623,Dr. Alok Tripathi,Female,"Sitamarhi, Bihar",Diabetes
+1624,Dr. Ramesh Babu,Female,"Sitamarhi, Bihar",Hypertension
+1625,Dr. Vandana Iyer,Female,"Sitamarhi, Bihar",Asthma
+1626,Dr. Gaurav Saxena,Female,"Sitamarhi, Bihar",Allergy
+1627,Dr. Shweta Menon,Female,"Sitamarhi, Bihar",Migraine
+1628,Dr. Pradeep Joshi,Female,"Sitamarhi, Bihar",Skin Rash
+1629,Dr. Anju Thomas,Female,"Sitamarhi, Bihar",Chest Pain
+1630,Dr. Sandeep Kaur,Female,"Sitamarhi, Bihar",Joint Pain
+1631,Dr. Manoj Pillai,Female,"Sitamarhi, Bihar",Infection
+1632,Dr. Ruchi Sinha,Female,"Sitamarhi, Bihar",Weakness
+1633,Dr. Ashok Mehta,Female,"Siwan, Bihar",General Medicine
+1634,Dr. Jyoti Rani,Female,"Siwan, Bihar",Pediatrics
+1635,Dr. Kiran Desai,Female,"Siwan, Bihar",Dermatology
+1636,Dr. Pankaj Dubey,Female,"Siwan, Bihar",Cardiology
+1637,Dr. Smita Kulkarni,Female,"Siwan, Bihar",Neurology
+1638,Dr. Abhishek Singh,Female,"Siwan, Bihar",Orthopedics
+1639,Dr. Radhika Nair,Female,"Siwan, Bihar",ENT
+1640,Dr. Mohan Rao,Female,"Siwan, Bihar",Pulmonology
+1641,Dr. Preeti Sharma,Female,"Siwan, Bihar",Gastroenterology
+1642,Dr. Yogesh Patil,Female,"Siwan, Bihar",Endocrinology
+1643,Dr. Anil Sahu,Female,"Siwan, Bihar",Psychiatry
+1644,Dr. Suman Mishra,Female,"Siwan, Bihar",Ophthalmology
+1645,Dr. Rakesh Kumar,Female,"Siwan, Bihar",Dentistry
+1646,Dr. Nidhi Verma,Female,"Siwan, Bihar",Gynecology
+1647,Dr. Amit Sinha,Female,"Siwan, Bihar",Urology
+1648,Dr. Seema Gupta,Female,"Siwan, Bihar",Nephrology
+1649,Dr. Dinesh Kumar,Female,"Siwan, Bihar",Oncology
+1650,Dr. Pooja Singh,Female,"Siwan, Bihar",Surgery
+1651,Dr. Rajesh Sharma,Female,"Siwan, Bihar",Fever
+1652,Dr. Priya Reddy,Female,"Siwan, Bihar",Cough
+1653,Dr. Anil Kumar,Female,"Siwan, Bihar",Cold
+1654,Dr. Sunita Singh,Female,"Siwan, Bihar",Headache
+1655,Dr. Suresh Gupta,Female,"Siwan, Bihar",Stomach Pain
+1656,Dr. Meena Joshi,Female,"Siwan, Bihar",Back Pain
+1657,Dr. Amitabh Verma,Female,"Siwan, Bihar",Diabetes
+1658,Dr. Kavita Mishra,Female,"Siwan, Bihar",Hypertension
+1659,Dr. Manoj Sinha,Female,"Siwan, Bihar",Asthma
+1660,Dr. Neha Pandey,Female,"Siwan, Bihar",Allergy
+1661,Dr. Rakesh Yadav,Female,"Siwan, Bihar",Migraine
+1662,Dr. Swati Jha,Female,"Siwan, Bihar",Skin Rash
+1663,Dr. Sanjay Das,Female,"Siwan, Bihar",Chest Pain
+1664,Dr. Pooja Agarwal,Female,"Siwan, Bihar",Joint Pain
+1665,Dr. Ajay Kumar,Female,"Siwan, Bihar",Infection
+1666,Dr. Shalini Rao,Female,"Siwan, Bihar",Weakness
+1667,Dr. Deepak Singh,Female,"Supaul, Bihar",General Medicine
+1668,Dr. Ritu Sinha,Female,"Supaul, Bihar",Pediatrics
+1669,Dr. Arvind Patel,Female,"Supaul, Bihar",Dermatology
+1670,Dr. Sneha Chatterjee,Female,"Supaul, Bihar",Cardiology
+1671,Dr. Vikram Chauhan,Female,"Supaul, Bihar",Neurology
+1672,Dr. Nisha Jain,Female,"Supaul, Bihar",Orthopedics
+1673,Dr. Alok Tripathi,Female,"Supaul, Bihar",ENT
+1674,Dr. Ramesh Babu,Female,"Supaul, Bihar",Pulmonology
+1675,Dr. Vandana Iyer,Female,"Supaul, Bihar",Gastroenterology
+1676,Dr. Gaurav Saxena,Female,"Supaul, Bihar",Endocrinology
+1677,Dr. Shweta Menon,Female,"Supaul, Bihar",Psychiatry
+1678,Dr. Pradeep Joshi,Female,"Supaul, Bihar",Ophthalmology
+1679,Dr. Anju Thomas,Female,"Supaul, Bihar",Dentistry
+1680,Dr. Sandeep Kaur,Female,"Supaul, Bihar",Gynecology
+1681,Dr. Manoj Pillai,Female,"Supaul, Bihar",Urology
+1682,Dr. Ruchi Sinha,Female,"Supaul, Bihar",Nephrology
+1683,Dr. Ashok Mehta,Female,"Supaul, Bihar",Oncology
+1684,Dr. Jyoti Rani,Female,"Supaul, Bihar",Surgery
+1685,Dr. Kiran Desai,Female,"Supaul, Bihar",Fever
+1686,Dr. Pankaj Dubey,Female,"Supaul, Bihar",Cough
+1687,Dr. Smita Kulkarni,Female,"Supaul, Bihar",Cold
+1688,Dr. Abhishek Singh,Female,"Supaul, Bihar",Headache
+1689,Dr. Radhika Nair,Female,"Supaul, Bihar",Stomach Pain
+1690,Dr. Mohan Rao,Female,"Supaul, Bihar",Back Pain
+1691,Dr. Preeti Sharma,Female,"Supaul, Bihar",Diabetes
+1692,Dr. Yogesh Patil,Female,"Supaul, Bihar",Hypertension
+1693,Dr. Anil Sahu,Female,"Supaul, Bihar",Asthma
+1694,Dr. Suman Mishra,Female,"Supaul, Bihar",Allergy
+1695,Dr. Rakesh Kumar,Female,"Supaul, Bihar",Migraine
+1696,Dr. Nidhi Verma,Female,"Supaul, Bihar",Skin Rash
+1697,Dr. Amit Sinha,Female,"Supaul, Bihar",Chest Pain
+1698,Dr. Seema Gupta,Female,"Supaul, Bihar",Joint Pain
+1699,Dr. Dinesh Kumar,Female,"Supaul, Bihar",Infection
+1700,Dr. Pooja Singh,Female,"Supaul, Bihar",Weakness
+1701,Dr. Rajesh Sharma,Female,"Vaishali, Bihar",General Medicine
+1702,Dr. Priya Reddy,Female,"Vaishali, Bihar",Pediatrics
+1703,Dr. Anil Kumar,Female,"Vaishali, Bihar",Dermatology
+1704,Dr. Sunita Singh,Female,"Vaishali, Bihar",Cardiology
+1705,Dr. Suresh Gupta,Female,"Vaishali, Bihar",Neurology
+1706,Dr. Meena Joshi,Female,"Vaishali, Bihar",Orthopedics
+1707,Dr. Amitabh Verma,Female,"Vaishali, Bihar",ENT
+1708,Dr. Kavita Mishra,Female,"Vaishali, Bihar",Pulmonology
+1709,Dr. Manoj Sinha,Female,"Vaishali, Bihar",Gastroenterology
+1710,Dr. Neha Pandey,Female,"Vaishali, Bihar",Endocrinology
+1711,Dr. Rakesh Yadav,Female,"Vaishali, Bihar",Psychiatry
+1712,Dr. Swati Jha,Female,"Vaishali, Bihar",Ophthalmology
+1713,Dr. Sanjay Das,Female,"Vaishali, Bihar",Dentistry
+1714,Dr. Pooja Agarwal,Female,"Vaishali, Bihar",Gynecology
+1715,Dr. Ajay Kumar,Female,"Vaishali, Bihar",Urology
+1716,Dr. Shalini Rao,Female,"Vaishali, Bihar",Nephrology
+1717,Dr. Deepak Singh,Female,"Vaishali, Bihar",Oncology
+1718,Dr. Ritu Sinha,Female,"Vaishali, Bihar",Surgery
+1719,Dr. Arvind Patel,Female,"Vaishali, Bihar",Fever
+1720,Dr. Sneha Chatterjee,Female,"Vaishali, Bihar",Cough
+1721,Dr. Vikram Chauhan,Female,"Vaishali, Bihar",Cold
+1722,Dr. Nisha Jain,Female,"Vaishali, Bihar",Headache
+1723,Dr. Alok Tripathi,Female,"Vaishali, Bihar",Stomach Pain
+1724,Dr. Ramesh Babu,Female,"Vaishali, Bihar",Back Pain
+1725,Dr. Vandana Iyer,Female,"Vaishali, Bihar",Diabetes
+1726,Dr. Gaurav Saxena,Female,"Vaishali, Bihar",Hypertension
+1727,Dr. Shweta Menon,Female,"Vaishali, Bihar",Asthma
+1728,Dr. Pradeep Joshi,Female,"Vaishali, Bihar",Allergy
+1729,Dr. Anju Thomas,Female,"Vaishali, Bihar",Migraine
+1730,Dr. Sandeep Kaur,Female,"Vaishali, Bihar",Skin Rash
+1731,Dr. Manoj Pillai,Female,"Vaishali, Bihar",Chest Pain
+1732,Dr. Ruchi Sinha,Female,"Vaishali, Bihar",Joint Pain
+1733,Dr. Ashok Mehta,Female,"Vaishali, Bihar",Infection
+1734,Dr. Jyoti Rani,Female,"Vaishali, Bihar",Weakness
+1735,Dr. Kiran Desai,Female,"West Champaran, Bihar",General Medicine
+1736,Dr. Pankaj Dubey,Female,"West Champaran, Bihar",Pediatrics
+1737,Dr. Smita Kulkarni,Female,"West Champaran, Bihar",Dermatology
+1738,Dr. Abhishek Singh,Female,"West Champaran, Bihar",Cardiology
+1739,Dr. Radhika Nair,Female,"West Champaran, Bihar",Neurology
+1740,Dr. Mohan Rao,Female,"West Champaran, Bihar",Orthopedics
+1741,Dr. Preeti Sharma,Female,"West Champaran, Bihar",ENT
+1742,Dr. Yogesh Patil,Female,"West Champaran, Bihar",Pulmonology
+1743,Dr. Anil Sahu,Female,"West Champaran, Bihar",Gastroenterology
+1744,Dr. Suman Mishra,Female,"West Champaran, Bihar",Endocrinology
+1745,Dr. Rakesh Kumar,Female,"West Champaran, Bihar",Psychiatry
+1746,Dr. Nidhi Verma,Female,"West Champaran, Bihar",Ophthalmology
+1747,Dr. Amit Sinha,Female,"West Champaran, Bihar",Dentistry
+1748,Dr. Seema Gupta,Female,"West Champaran, Bihar",Gynecology
+1749,Dr. Dinesh Kumar,Female,"West Champaran, Bihar",Urology
+1750,Dr. Pooja Singh,Female,"West Champaran, Bihar",Nephrology
+1751,Dr. Rajesh Sharma,Female,"West Champaran, Bihar",Oncology
+1752,Dr. Priya Reddy,Female,"West Champaran, Bihar",Surgery
+1753,Dr. Anil Kumar,Female,"West Champaran, Bihar",Fever
+1754,Dr. Sunita Singh,Female,"West Champaran, Bihar",Cough
+1755,Dr. Suresh Gupta,Female,"West Champaran, Bihar",Cold
+1756,Dr. Meena Joshi,Female,"West Champaran, Bihar",Headache
+1757,Dr. Amitabh Verma,Female,"West Champaran, Bihar",Stomach Pain
+1758,Dr. Kavita Mishra,Female,"West Champaran, Bihar",Back Pain
+1759,Dr. Manoj Sinha,Female,"West Champaran, Bihar",Diabetes
+1760,Dr. Neha Pandey,Female,"West Champaran, Bihar",Hypertension
+1761,Dr. Rakesh Yadav,Female,"West Champaran, Bihar",Asthma
+1762,Dr. Swati Jha,Female,"West Champaran, Bihar",Allergy
+1763,Dr. Sanjay Das,Female,"West Champaran, Bihar",Migraine
+1764,Dr. Pooja Agarwal,Female,"West Champaran, Bihar",Skin Rash
+1765,Dr. Ajay Kumar,Female,"West Champaran, Bihar",Chest Pain
+1766,Dr. Shalini Rao,Female,"West Champaran, Bihar",Joint Pain
+1767,Dr. Deepak Singh,Female,"West Champaran, Bihar",Infection
+1768,Dr. Ritu Sinha,Female,"West Champaran, Bihar",Weakness
+1769,Dr. Arvind Patel,Female,"Banka, Bihar",General Medicine
+1770,Dr. Sneha Chatterjee,Female,"Visakhapatnam, Andhra Pradesh",General Medicine
+1771,Dr. Vikram Chauhan,Female,"Patna, Bihar",General Medicine
+1772,Dr. Nisha Jain,Female,"Nalanda, Bihar",General Medicine
+1773,Dr. Alok Tripathi,Female,"Rohtas, Bihar",General Medicine
+1774,Dr. Ramesh Babu,Female,"Srikakulam, Andhra Pradesh",General Medicine
+1775,Dr. Vandana Iyer,Female,"Jehanabad, Bihar",General Medicine
+1776,Dr. Gaurav Saxena,Female,"Araria, Bihar",General Medicine
+1777,Dr. Shweta Menon,Female,"Siwan, Bihar",General Medicine
+1778,Dr. Pradeep Joshi,Female,"Samastipur, Bihar",General Medicine
