@@ -1,5 +1,5 @@
 Flask
 pandas
 scikit-learn
-scikit-surprise
+flask_cors
 faker
